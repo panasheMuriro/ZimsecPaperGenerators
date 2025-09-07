@@ -77,9 +77,22 @@ const App = () => {
       </div>
 
       {/* This div contains the content to be printed. It is hidden on the screen but visible to the printer. */}
-      <div className="hidden print:block">
+    
+     {/* <div className="hidden print:block">
         <Paper ref={contentRef} />
-      </div>
+      </div> */}
+
+<div
+ 
+  style={{
+    position: "absolute",
+    top: "-10000px",
+    left: "-10000px",
+  }}
+>
+  <Paper  ref={contentRef} />
+</div>
+
     </div>
   );
 };

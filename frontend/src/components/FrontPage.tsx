@@ -11,7 +11,7 @@ function FrontPage() {
         <div className="h-8 border-r-2 w-[50%]"></div>
         <div className="h-8 border-r-2 w-[20%]"></div>
       </div>
-      <div className="border-2 rounded-3xl h-[80vh] mt-12">
+      <div className="border-2 rounded-3xl mt-12">
         <div className="m-3 border-2 rounded-3xl text-center flex flex-col items-center p-3">
           <div className="h-24 w-24">
             <img src="./zimsec_logo.jpg" />
