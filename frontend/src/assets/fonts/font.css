@@ -1,0 +1,24 @@
+/* fonts.css */
+@font-face {
+  font-family: 'CModern';
+  src: url('./NewCM10-Book.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.katex .textstyle,
+.katex .mathnormal {
+  font-family: 'CModern', serif !important;
+  /* font-size: 12px; */
+font-style: normal !important;
+}
+
+.katex{
+    font: normal 1em KaTeX_Main, CModern,serif !important
+}
+
+@font-face{
+  font-family:'KaTeX_Main';
+  src:url('./NewCM10-Book.otf') format('opentype');
+}

@@ -1,0 +1,1857 @@
+{
+  "possible_question_1": [
+    {
+      "question": "(a) Express $4380\\,\\text{cm}^3$ in litres.\n(b) Round $0.009684$ to two significant figures.\n(c) Write $5.27\\times10^4$ in ordinary form.",
+      "explanation": "(a) $1\\,\\text{litre}=1000\\,\\text{cm}^3$.  So $4380\\div1000 = 4.38\\,\\text{L}$.\n(b) Two s.f. ⇒ 0.0097 (the 3rd s.f. digit 6 rounds 8 → 7).\n(c) $5.27\\times10^4 = 52700$.\nAnswers: 4.38 L ; 0.0097 ; 52 700."
+    },
+    {
+      "question": "(a) Write $0.000312$ in standard form.\n(b) Express $7.56\\times10^5$ in ordinary notation.\n(c) Find $12\\%$ of £2500.",
+      "explanation": "(a) Move decimal 4 places ⇒ $3.12\\times10^{-4}$.\n(b) $7.56\\times10^5 = 756000$.\n(c) $0.12\\times2500 = £300$.\nAnswers: $3.12\\times10^{-4}$ ; 756 000 ; £300."
+    },
+    {
+      "question": "(a) Round $347.289$ to three significant figures.\n(b) Express $1\\,\\text{h }37\\,\\text{min}$ as a decimal of an hour correct to $2$ d.p.\n(c) Write $6.27\\times10^7$ in ordinary notation.",
+      "explanation": "(a) 3 s.f. ⇒ 347 (next digit 2 <5 so no change).\n(b) $37\\text{ min}=\\dfrac{37}{60}=0.616\\overline6\\text{ h}\\approx1.62\\text{ h}$.\n(c) $6.27\\times10^7=62\\,700\\,000$.\nAnswers: 347 ; 1.62 h ; 62 700 000."
+    },
+    {
+      "question": "(a) Convert $2.5\\,\\text{m}^2$ to $\\text{cm}^2$.\n(b) Express $1\\dfrac{3}{8}$ as a recurring decimal.\n(c) Round $58\\,729$ to the nearest hundred.",
+      "explanation": "(a) $1\\,\\text{m}^2=10\\,000\\,\\text{cm}^2$ ⇒ $2.5\\times10\\,000=25\\,000\\,\\text{cm}^2$.\n(b) $\\dfrac{11}{8}=1.375$ so recurring part is  none; exact decimal 1.375 (terminating).\n(c) Hundreds digit 7, next digit 2 <5 ⇒ 58 700.\nAnswers: 25 000 cm² ; 1.375 ; 58 700."
+    },
+    {
+      "question": "(a) Express $2460\\,\\text{cm}^3$ in litres.\n(b) Write $45\\,600$ in standard form.\n(c) Calculate $15\\%$ of £80.",
+      "explanation": "(a) $2460/1000 = 2.46\\,\\text{L}$.\n(b) $4.56\\times10^4$.\n(c) $0.15\\times80 = £12$.\nAnswers: 2.46 L ; $4.56\\times10^4$ ; £12."
+    },
+    {
+      "question": "(a) Round $0.05674$ to two significant figures.\n(b) Write $9.08\\times10^{-3}$ in ordinary form.\n(c) Express $7\\,\\text{min }45\\,\\text{s}$ as a fraction of an hour correct to 3 d.p.",
+      "explanation": "(a) 2 s.f. ⇒ 0.057 (third s.f. 6 ≥5 rounds).\n(b) $0.00908$.\n(c) $7\\text{ min }45\\text{ s}=465\\text{ s};\\;\\frac{465}{3600}=0.129167\\approx0.129$.\nAnswers: 0.057 ; 0.00908 ; 0.129."
+    },
+    {
+      "question": "(a) Convert $120\\,\\text{kg}$ to grams.\n(b) Evaluate $0.04\\times0.5$ exactly.\n(c) Express $3.2\\times10^{6}\\,\\text{m}$ in kilometres.",
+      "explanation": "(a) $120\\times1000 = 120\\,000\\,\\text{g}$.\n(b) $0.02$.\n(c) $\\dfrac{3.2\\times10^{6}}{1000}=3.2\\times10^{3}=3\\,200\\,\\text{km}$.\nAnswers: 120 000 g ; 0.02 ; 3 200 km."
+    },
+    {
+      "question": "(a) Calculate $\\dfrac{3}{8}$ of $64$.\n(b) Express $2.75$ hours in hours and minutes.\n(c) Round $29\\,499$ to the nearest thousand.",
+      "explanation": "(a) $\\frac{3}{8}\\times64=24$.\n(b) $0.75\\text{ h}=45\\text{ min}$ ⇒ 2 h 45 min.\n(c) Thousands digit 9, next digit 4<5 ⇒ 29 000.\nAnswers: 24 ; 2 h 45 min ; 29 000."
+    },
+    {
+      "question": "(a) Write $5.4\\times10^{-2}$ in ordinary form.\n(b) Convert $7500\\,\\text{ml}$ to litres.\n(c) Evaluate $(0.25)^{-1}$.",
+      "explanation": "(a) $0.054$.\n(b) $7500/1000 = 7.5\\,\\text{L}$.\n(c) Reciprocal of 0.25 is 4.\nAnswers: 0.054 ; 7.5 L ; 4."
+    },
+    {
+      "question": "(a) Round £437.856 to the nearest £1.\n(b) Write $321\\,000$ in standard form.\n(c) Find $25\\%$ of £64.",
+      "explanation": "(a) £438 (85 p ≥50 p rounds up).\n(b) $3.21\\times10^5$.\n(c) $0.25\\times64=£16$.\nAnswers: £438 ; $3.21\\times10^{5}$ ; £16."
+    },
+    {
+      "question": "(a) Round $0.02564$ to three significant figures.\n(b) Convert $120\\,\\text{cm}^2$ to $\\text{m}^2$.\n(c) Express $0.00089$ in standard form.",
+      "explanation": "(a) 3 s.f. ⇒ 0.0256 (4<5 no change).\n(b) $1\\,\\text{m}^2=10\\,000\\,\\text{cm}^2$ ⇒ $120/10\\,000 = 0.012\\,\\text{m}^2$.\n(c) $8.9\\times10^{-4}$.\nAnswers: 0.0256 ; 0.012 m² ; $8.9\\times10^{-4}$."
+    },
+    {
+      "question": "(a) Evaluate $(-8)^{\\tfrac{2}{3}}$.\n(b) Simplify $\\sqrt{147}+\\sqrt{108}$, leaving $m\\sqrt{n}$.\n(c) Find $10\\%$ of £350.",
+      "explanation": "(a) Cube-root of –8 is –2; square gives 4.\n(b) $\\sqrt{147}=7\\sqrt3$, $\\sqrt{108}=6\\sqrt3$ ⇒ $13\\sqrt3$.\n(c) £35.\nAnswers: 4 ; $13\\sqrt3$ ; £35."
+    },
+    {
+      "question": "(a) Write $0.0036$ in standard form.\n(b) Round $4.996$ to two decimal places.\n(c) Express $72\\,000\\,000$ in standard form.",
+      "explanation": "(a) $3.6\\times10^{-3}$.\n(b) 5.00 (third d.p. 6 rounds up).\n(c) $7.2\\times10^{7}$.\nAnswers: $3.6\\times10^{-3}$ ; 5.00 ; $7.2\\times10^{7}$."
+    },
+    {
+      "question": "(a) Convert $3.6\\,\\text{km}$ to metres.\n(b) Express $0.375$ as a percentage.\n(c) Round £12,487 to the nearest £10.",
+      "explanation": "(a) $3.6\\times1000=3600\\,\\text{m}$.\n(b) $0.375\\times100=37.5\\%$.\n(c) Tens digit 8, next digit 7 ≥5 ⇒ £12 490.\nAnswers: 3 600 m ; 37.5 % ; £12 490."
+    },
+    {
+      "question": "(a) Calculate $2^5\\times5^2$.\n(b) Write $640$ as a product of its prime factors.\n(c) Express $0.65$ to one significant figure.",
+      "explanation": "(a) $32\\times25=800$.\n(b) $640=2^7\\times5$.\n(c) 0.6 (second s.f. 5 -> round down since 6? Wait 0.65, first s.f. is 6, next digit 5=>round up to 0.7) Actually to 1 s.f. ⇒ 0.7.\nAnswers: 800 ; $2^{7}\\times5$ ; 0.7."
+    },
+    {
+      "question": "(a) Express $1.2\\times10^{3}\\,\\text{mm}$ in metres.\n(b) Round $73.154$ to the nearest whole number.\n(c) Find $17.5\\%$ of £120.",
+      "explanation": "(a) $1.2\\times10^{3}\\,\\text{mm}=1200\\,\\text{mm}=1.2\\,\\text{m}$.\n(b) 73 (fractional part 0.154 <0.5).\n(c) $0.175\\times120=£21$.\nAnswers: 1.2 m ; 73 ; £21."
+    },
+    {
+      "question": "(a) Write $\\dfrac{7}{20}$ as a decimal.\n(b) Express $0.17$ as a common fraction in simplest form.\n(c) Round $0.00999$ to two significant figures.",
+      "explanation": "(a) 0.35.\n(b) $\\dfrac{17}{100}=\\dfrac{17}{100}$ (already simplest).\n(c) 0.010 (second s.f. 9, third 9 rounds up).\nAnswers: 0.35 ; $17/100$ ; 0.010."
+    },
+    {
+      "question": "(a) Convert $3600\\,\\text{s}$ to hours.\n(b) Express $98\\,000$ in standard form.\n(c) Evaluate $0.5\\div0.04$.",
+      "explanation": "(a) $3600/3600=1\\,\\text{h}$.\n(b) $9.8\\times10^4$.\n(c) $12.5$.\nAnswers: 1 h ; $9.8\\times10^{4}$ ; 12.5."
+    },
+    {
+      "question": "(a) Round £0.8769 to the nearest penny.\n(b) Express $2.46\\times10^{3}$ in ordinary form.\n(c) Write $0.000057$ in standard form.",
+      "explanation": "(a) £0.88 (third decimal 6 ≥5).\n(b) 2460.\n(c) $5.7\\times10^{-5}$.\nAnswers: £0.88 ; 2 460 ; $5.7\\times10^{-5}$."
+    },
+    {
+      "question": "(a) Convert $4.2\\,\\text{m}^3$ to litres.\n(b) Round $105.499$ to one decimal place.\n(c) Express $0.000241$ in standard form.",
+      "explanation": "(a) $1\\,\\text{m}^3=1000\\,\\text{L}$ ⇒ 4 200 L.\n(b) 105.5 (second d.p. 9 ≥5).\n(c) $2.41\\times10^{-4}$.\nAnswers: 4 200 L ; 105.5 ; $2.41\\times10^{-4}$."
+    },
+    {
+      "question": "(a) Convert £5.40 to South African rand at £1 = R12.\n(b) Round 54.497 to the nearest tenth.\n(c) Write 0.000342 in standard form.",
+      "explanation": "(a) £5.40 ×12 = R64.8.\n(b) Nearest tenth ⇒ 54.5.\n(c) $3.42\\times10^{-4}$.\nAnswers: R64.8 ; 54.5 ; $3.42\\times10^{-4}$."
+    }
+  ],
+   "possible_question_2": [
+    {
+      "question": "(a) Simplify $\\dfrac{2}{7}+\\dfrac{3}{5}$, giving the answer as a single fraction in its lowest terms.\n(b) Express $0.045$ as a percentage.",
+      "explanation": "(a) LCD = 35.  $\\dfrac{2}{7}=\\dfrac{10}{35}$, $\\dfrac{3}{5}=\\dfrac{21}{35}$.  Sum $=\\dfrac{31}{35}$.\n(b) $0.045\\times100 = 4.5\\%$.\nAnswers: $31/35$ ; 4.5 %."
+    },
+    {
+      "question": "(a) Calculate $\\dfrac{3}{5}$ of $60$.\n(b) In a class the ratio boys : girls is $4:5$.  If there are $27$ girls, how many boys are there?",
+      "explanation": "(a) $\\dfrac{3}{5}\\times60 = 36$.\n(b) Let the common factor be $x$.  Girls $=5x=27\\;\\Rightarrow\\;x=5.4$.  Boys $=4x=21.6\\approx22$ (since number of learners must be whole, ratio implies 4 units = 4×5.4 = 21.6 ≈ 22).\nAnswers: 36 ; 22 boys."
+    },
+    {
+      "question": "(a) £720 is shared among A, B and C in the ratio $5:3:2$.  How much does C receive?\n(b) What percentage of the total amount does B receive?",
+      "explanation": "(a) Total parts $=10$.  One part £72.  C has 2 parts ⇒ £144.\n(b) B has 3 parts ⇒ £216. Percentage $=\\dfrac{216}{720}\\times100 = 30\\%$.\nAnswers: £144 ; 30 %."
+    },
+    {
+      "question": "(a) Evaluate $\\dfrac{5}{8}\\div\\dfrac{3}{4}$, giving your answer as a fraction in simplest form.\n(b) Express $2.75$ hours in hours and minutes.",
+      "explanation": "(a) Division ⇒ $\\dfrac{5}{8}\\times\\dfrac{4}{3}=\\dfrac{5}{6}$.\n(b) $0.75$ h = 45 min ⇒ 2 h 45 min.\nAnswers: $5/6$ ; 2 h 45 min."
+    },
+    {
+      "question": "(a) A dealer offers a $15\\%$ discount on an item marked £80.  Find the sale price.\n(b) After the discount a further $5\\%$ sales tax is added.  Calculate the final price paid.",
+      "explanation": "(a) Discount £12. Sale price £68.\n(b) Tax £68×0.05=£3.40. Final price £71.40.\nAnswers: £68 ; £71.40."
+    },
+    {
+      "question": "(a) Write the ratio $450\\,\\text{g}:1.5\\,\\text{kg}$ in its simplest form.\n(b) Calculate $12\\%$ of £2 500.",
+      "explanation": "(a) 1.5 kg = 1500 g. Ratio 450:1500 ⇒ 3:10.\n(b) £2 500×0.12 = £300.\nAnswers: 3 : 10 ; £300."
+    },
+    {
+      "question": "(a) Simplify $\\dfrac{18}{35}\\times\\dfrac{14}{27}$, leaving the answer as a fraction.\n(b) £560 is $20\\%$ more than the cost price of an item.  Find the cost price.",
+      "explanation": "(a) Cancel: $18/27=2/3$, $14/35=2/5$.  Product $=\\dfrac{4}{15}$.\n(b) Selling price = 1.2(CP).  CP = £560/1.2 = £466.67.\nAnswers: $4/15$ ; £466.67."
+    },
+    {
+      "question": "(a) Increase £640 by $12\\%$.\n(b) Decrease £640 by $12\\%$.",
+      "explanation": "(a) £640×1.12 = £716.80.\n(b) £640×0.88 = £563.20.\nAnswers: £716.80 ; £563.20."
+    },
+    {
+      "question": "(a) A recipe uses flour, sugar and butter in the ratio $4:3:2$.  How many grams of sugar are needed if $450\\,\\text{g}$ of flour is used?\n(b) What fraction of the mixture is butter?",
+      "explanation": "(a) 1 part = 450/4 = 112.5 g. Sugar = 3 parts = 337.5 g.\n(b) Total parts = 9. Butter = 2 parts ⇒ $2/9$.\nAnswers: 337.5 g ; $2/9$."
+    },
+    {
+      "question": "(a) Convert $\\dfrac{7}{20}$ to a percentage.\n(b) A student scored 42 marks out of 70.  What percentage did the student score?",
+      "explanation": "(a) $7/20=0.35=35\\%$.\n(b) $42/70=0.6=60\\%$.\nAnswers: 35 % ; 60 %."
+    },
+    {
+      "question": "(a) Find $\\dfrac{2}{5}$ of £150.\n(b) What percentage of £200 is £70?",
+      "explanation": "(a) £150×2/5 = £60.\n(b) 70/200 = 0.35 = 35 %.\nAnswers: £60 ; 35 %."
+    },
+    {
+      "question": "(a) A car’s price drops from £12 000 to £10 800.  Calculate the percentage decrease.\n(b) After the drop VAT at $5\\%$ is added.  What is the new price including VAT?",
+      "explanation": "(a) Change £1 200.  Percentage = 1 200/12 000×100 = 10 % decrease.\n(b) £10 800×1.05 = £11 340.\nAnswers: 10 % ; £11 340."
+    },
+    {
+      "question": "(a) £500 is invested at $4\\%$ simple interest per annum.  Find the interest earned in 3 years.\n(b) Calculate the total amount after the 3 years.",
+      "explanation": "(a) I = PRT = 500×0.04×3 = £60.\n(b) Amount = £560.\nAnswers: £60 ; £560."
+    },
+    {
+      "question": "(a) The exchange rate is £1 to 1.30 dollars.  Convert £240 to US dollars.\n(b) Convert 780 dollars to pounds (£) using the same rate, correct to the nearest pound.",
+      "explanation": "(a) 240×1.30 = $312.\n(b) £ = 780/1.30 = £600.\nAnswers: $312 ; £600."
+    },
+    {
+      "question": "(a) Evaluate $0.032\\div0.4$.\n(b) Express $\\dfrac{8}{3}$ as a recurring decimal.",
+      "explanation": "(a) 0.08.\n(b) $2.\\overline6$.\nAnswers: 0.08 ; 2.6̅."
+    },
+    {
+      "question": "(a) A mixture contains acid and water in the ratio $2:7$.  How many litres of acid are in $18\\,\\text{L}$ of the mixture?\n(b) If $4\\,\\text{L}$ of water evaporate, what is the new ratio acid : water?",
+      "explanation": "(a) 9 total parts. Acid = 2 parts = 2/9×18 = 4 L.\n(b) Water originally 14 L. After loss: 10 L. Ratio = 4 : 10 = 2 : 5.\nAnswers: 4 L ; 2 : 5."
+    },
+    {
+      "question": "(a) Simplify $2(a-2)-4(a+3)$.\n(b) Hence find the value when $a=5$ and express it as a percentage of 40.",
+      "explanation": "(a) $2a-4-4a-12=-2a-16$.\n(b) For $a=5$: −2(5)−16 = −26.  Percentage of 40 = −26/40×100 = −65 % (a decrease).\nAnswers: $-2a-16$ ; −65 %."
+    },
+    {
+      "question": "(a) A shop marks an item at £85 and allows a $20\\%$ discount.  What is the selling price?\n(b) If the shop still makes a $6\\%$ profit on cost price, find the cost price.",
+      "explanation": "(a) Discount £17. Selling price £68.\n(b) Let cost = C.  Selling = 1.06C.  1.06C = 68 ⇒ C ≈ £64.15.\nAnswers: £68 ; £64.15."
+    },
+    {
+      "question": "(a) Divide £960 among P, Q, R in the ratio $5:3:2$.\n(b) What percentage of the total does P receive?",
+      "explanation": "(a) Total parts 10. P £480, Q £288, R £192.\n(b) 480/960×100=50 %.\nAnswers: £480, £288, £192 ; 50 %."
+    },
+    {
+      "question": "(a) Find $\\dfrac{4}{9}$ of $81$.\n(b) Express $18$ as a percentage of $225$.",
+      "explanation": "(a) $\\dfrac{4}{9}\\times81=36$.\n(b) 18/225=0.08=8 %.\nAnswers: 36 ; 8 %."
+    },
+    {
+      "question": "(a) If 5 pens cost £1.20, how much do 8 pens cost?\n(b) The number 48 is increased by $\\dfrac{1}{8}$ of itself.  Find the new value.",
+      "explanation": "(a) Unit cost £0.24. 8 pens £1.92.\n(b) Increase = 48/8 = 6. New value 54.\nAnswers: £1.92 ; 54."
+    }
+  ],
+   "possible_question_3": [
+    {
+      "question": "(a) Evaluate $\\left(\\dfrac{1}{16}\\right)^{-\\tfrac{3}{4}}$.\n(b) Simplify $\\sqrt{45}-\\sqrt{20}$, leaving the answer in the form $k\\sqrt{n}$.",
+      "explanation": "(a) $\\left(\\dfrac{1}{16}\\right)^{-\\tfrac{3}{4}} = \\left(16\\right)^{\\tfrac{3}{4}} = \\bigl(2^{4}\\bigr)^{3/4}=2^{3}=8$.\n(b) $\\sqrt{45}=3\\sqrt{5}$ and $\\sqrt{20}=2\\sqrt{5}$.  Difference $=(3-2)\\sqrt{5}=\\sqrt{5}$.\nAnswers: 8 ; $\\sqrt{5}$."
+    },
+    {
+      "question": "(a) Simplify $3a^{2}\\times2a^{-3}$, giving your answer with positive indices.\n(b) Evaluate $\\log_{3}81$.",
+      "explanation": "(a) $3a^{2}\\times2a^{-3}=6a^{-1}=\\dfrac{6}{a}$.\n(b) $81=3^{4}$ so $\\log_{3}81=4$.\nAnswers: $\\dfrac{6}{a}$ ; 4."
+    },
+    {
+      "question": "(a) Write $125^{\\tfrac{2}{3}}$ as an integer.\n(b) Simplify $\\dfrac{\\sqrt{98}}{\\sqrt{2}}$.",
+      "explanation": "(a) Cube–root of 125 is 5, square ⇒ $5^{2}=25$.\n(b) $\\dfrac{\\sqrt{98}}{\\sqrt{2}}=\\sqrt{49}=7$.\nAnswers: 25 ; 7."
+    },
+    {
+      "question": "(a) Evaluate $8^{-\\tfrac{2}{3}}$.\n(b) Simplify $\\sqrt{50}+\\sqrt{32}$.",
+      "explanation": "(a) $8=2^{3}\\Rightarrow 8^{-2/3}=2^{-2}=\\dfrac{1}{4}$.\n(b) $\\sqrt{50}=5\\sqrt{2}$, $\\sqrt{32}=4\\sqrt{2}$; sum $=9\\sqrt{2}$.\nAnswers: $\\dfrac14$ ; $9\\sqrt{2}$."
+    },
+    {
+      "question": "(a) Evaluate $\\log_{4}\\dfrac{1}{64}$.\n(b) Simplify $\\sqrt{147}+\\sqrt{48}$ leaving the answer as $m\\sqrt{n}$.",
+      "explanation": "(a) $64=4^{3}$ so $\\log_{4}\\!\\dfrac{1}{64}=\\log_{4}4^{-3}=-3$.\n(b) $\\sqrt{147}=7\\sqrt{3}$, $\\sqrt{48}=4\\sqrt{3}$, sum $=11\\sqrt{3}$.\nAnswers: −3 ; $11\\sqrt{3}$."
+    },
+    {
+      "question": "(a) Simplify $\\dfrac{2x^{-2}y^{3}}{4x^{4}y^{-1}}$.\n(b) Write $\\sqrt{200}$ in the form $p\\sqrt{q}$.",
+      "explanation": "(a) Coefficient $\\dfrac{2}{4}=\\dfrac12$; powers $x^{ -2-4}=x^{-6}$, $y^{3-(-1)}=y^{4}$.  Result $\\dfrac{y^{4}}{2x^{6}}$.\n(b) $\\sqrt{200}=\\sqrt{100\\times2}=10\\sqrt{2}$.\nAnswers: $\\dfrac{y^{4}}{2x^{6}}$ ; $10\\sqrt{2}$."
+    },
+    {
+      "question": "(a) If $\\log_{5}k=-3$, find $k$.\n(b) Simplify $3\\sqrt{12}-\\sqrt{27}$.",
+      "explanation": "(a) $k=5^{-3}=\\dfrac{1}{125}$.\n(b) $\\sqrt{12}=2\\sqrt{3}$, so $3\\sqrt{12}=6\\sqrt{3}$; $\\sqrt{27}=3\\sqrt{3}$. Difference $=3\\sqrt{3}$.\nAnswers: $\\dfrac{1}{125}$ ; $3\\sqrt{3}$."
+    },
+    {
+      "question": "(a) Evaluate $\\left(\\dfrac{9}{25}\\right)^{\\tfrac{3}{2}}$.\n(b) Simplify $\\sqrt{18}\\times\\sqrt{8}$.",
+      "explanation": "(a) Write as $(3^{2}/5^{2})^{3/2}=3^{3}/5^{3}=\\dfrac{27}{125}$.\n(b) Product $=\\sqrt{144}=12$.\nAnswers: $27/125$ ; 12."
+    },
+    {
+      "question": "(a) Show that $\\log_{2}32-\\log_{2}4=3$.\n(b) Simplify $\\dfrac{\\sqrt{75}}{\\sqrt{3}}$.",
+      "explanation": "(a) $32=2^{5}$, $4=2^{2}$ ⇒ $5-2=3$.\n(b) $\\sqrt{75/3}=\\sqrt{25}=5$.\nAnswers: 3 ; 5."
+    },
+    {
+      "question": "(a) Express $16^{1.25}$ as a power of $2$.\n(b) Simplify $2\\sqrt{27}-\\sqrt{108}$.",
+      "explanation": "(a) $16=2^{4}$ ⇒ exponent $4\\times1.25=5$ ⇒ $2^{5}=32$.\n(b) $2\\sqrt{27}=2\\times3\\sqrt{3}=6\\sqrt{3}$; $\\sqrt{108}=6\\sqrt{3}$. Difference 0.\nAnswers: 32 ; 0."
+    },
+    {
+      "question": "(a) Evaluate $\\log_{9}81$.\n(b) Simplify $\\sqrt{63}+\\sqrt{28}$.",
+      "explanation": "(a) $81=9^{\\tfrac{3}{2}}$ so value $=\\tfrac32$.\n(b) $\\sqrt{63}=3\\sqrt{7}$, $\\sqrt{28}=2\\sqrt{7}$; sum $=5\\sqrt{7}$.\nAnswers: 1.5 ; $5\\sqrt{7}$."
+    },
+    {
+      "question": "(a) Simplify $\\dfrac{3x^{-1}y^{2}}{6x^{2}y^{-3}}$ with positive indices.\n(b) Express $\\sqrt{242}$ in simplest surd form.",
+      "explanation": "(a) Coefficient $=\\dfrac12$, $x^{-1-2}=x^{-3}$, $y^{2-(-3)}=y^{5}$ ⇒ $\\dfrac{y^{5}}{2x^{3}}$.\n(b) $242=121\\times2$ so $\\sqrt{242}=11\\sqrt{2}$.\nAnswers: $\\dfrac{y^{5}}{2x^{3}}$ ; $11\\sqrt{2}$."
+    },
+    {
+      "question": "(a) Evaluate $\\left(\\dfrac{4}{9}\\right)^{-\\tfrac{1}{2}}$.\n(b) Simplify $\\sqrt{48}-2\\sqrt{3}$.",
+      "explanation": "(a) Reciprocal square-root: $\\left(\\dfrac{4}{9}\\right)^{-1/2}=\\dfrac{3}{2}$.\n(b) $\\sqrt{48}=4\\sqrt{3}$, subtract $2\\sqrt{3}$ ⇒ $2\\sqrt{3}$.\nAnswers: $\\dfrac{3}{2}$ ; $2\\sqrt{3}$."
+    },
+    {
+      "question": "(a) Evaluate $\\log_{10}0.01$.\n(b) Simplify $\\sqrt{72}+\\sqrt{32}$.",
+      "explanation": "(a) $0.01=10^{-2}$ ⇒ log = −2.\n(b) $\\sqrt{72}=6\\sqrt{2}$, $\\sqrt{32}=4\\sqrt{2}$; sum $=10\\sqrt{2}$.\nAnswers: −2 ; $10\\sqrt{2}$."
+    },
+    {
+      "question": "(a) If $3^{p}=81$, find $p$.\n(b) Simplify $\\dfrac{6\\sqrt{50}}{3\\sqrt{2}}$.",
+      "explanation": "(a) $81=3^{4}$ ⇒ $p=4$.\n(b) $6/3=2$, $\\sqrt{50}/\\sqrt{2}=\\sqrt{25}=5$, product 10.\nAnswers: 4 ; 10."
+    },
+    {
+      "question": "(a) Simplify $(2^{3})^{\\tfrac{1}{3}}$.\n(b) Express $\\sqrt{98}-\\sqrt{18}$ as $c\\sqrt{d}$.",
+      "explanation": "(a) $(2^{3})^{1/3}=2$.\n(b) $\\sqrt{98}=7\\sqrt{2}$, $\\sqrt{18}=3\\sqrt{2}$ ⇒ $4\\sqrt{2}$.\nAnswers: 2 ; $4\\sqrt{2}$."
+    },
+    {
+      "question": "(a) Evaluate $\\log_{12}144$.\n(b) Simplify $\\sqrt{300}$.",
+      "explanation": "(a) $144=12^{2}$ ⇒ log = 2.\n(b) $\\sqrt{300}=\\sqrt{100\\times3}=10\\sqrt{3}$.\nAnswers: 2 ; $10\\sqrt{3}$."
+    },
+    {
+      "question": "(a) Express $27^{-\\tfrac{4}{3}}$ as a fraction.\n(b) Simplify $\\sqrt{12}+\\sqrt{27}-\\sqrt{3}$.",
+      "explanation": "(a) $27=3^{3}$ ⇒ exponent −4/3 gives $3^{-4}=\\dfrac{1}{81}$.\n(b) $\\sqrt{12}=2\\sqrt{3}$, $\\sqrt{27}=3\\sqrt{3}$; sum minus $\\sqrt3$ ⇒ $4\\sqrt{3}$.\nAnswers: $1/81$ ; $4\\sqrt{3}$."
+    },
+    {
+      "question": "(a) Simplify $\\dfrac{64^{0.5}}{4^{-1}}$.\n(b) Express $\\dfrac{\\sqrt{200}}{\\sqrt{8}}$ in simplest form.",
+      "explanation": "(a) $64^{0.5}=8$, $4^{-1}=\\dfrac14$ ⇒ $8\\div\\dfrac14 = 32$.\n(b) $\\sqrt{200/8}=\\sqrt{25}=5$.\nAnswers: 32 ; 5."
+    },
+    {
+      "question": "(a) If $\\log_{2}(x)=5$, find $\\log_{4}(x)$.\n(b) Simplify $5\\sqrt{18}-2\\sqrt{50}$.",
+      "explanation": "(a) $x=2^{5}=32$, so $\\log_{4}32 = \\dfrac{\\log_{2}32}{\\log_{2}4}=\\dfrac{5}{2}=2.5$.\n(b) $5\\sqrt{18}=5\\times3\\sqrt{2}=15\\sqrt{2}$; $2\\sqrt{50}=2\\times5\\sqrt{2}=10\\sqrt{2}$; difference $=5\\sqrt{2}$.\nAnswers: 2.5 ; $5\\sqrt{2}$."
+    }
+  ],
+   "possible_question_4": [
+
+    {
+      "question": "The universal set is $\\xi = \\{1,2,3,4,5,6,7,8,9\\}$.  Let  $A = \\{2,4,6,8\\}$  and  $B = \\{1,2,3,4\\}$.\n(a) List the elements of  $A \\cap B$.\n(b) List the elements of  $A' \\cap B$.\n(c) Hence find  $n(A \\cup B)$.",
+      "explanation": "(a)  $A \\cap B = \\{2,4\\}$.\n(b)  $A' = \\{1,3,5,7,9\\}$ so   $A' \\cap B = \\{1,3\\}$.\n(c)  $A \\cup B = \\{1,2,3,4,6,8\\}$ so  $n(A \\cup B)=6$."
+    },
+
+    {
+      "question": "In a survey of 60 students, 38 like football (F), 26 like basketball (B) and 10 like both.\n(a) Represent the information on a two-set Venn diagram.\n(b) How many students like neither sport?",
+      "explanation": "Football only = 38−10 = 28; Basketball only = 26−10 = 16; Both = 10.\nTotal inside sets = 28+16+10 = 54.\nTherefore those who like neither = 60−54 = 6."
+    },
+
+    {
+      "question": "The word MATHEMATICS supplies the universal set of letters.  Let  $P$ be the vowels and $Q$ the consonants which occur more than once.\n(a) List the elements of $P$.\n(b) Shade the region $P' \\cap Q$ on a Venn diagram.\n(c) State $n(P \\cup Q)$.",
+      "explanation": "Letters:  M,A,T,H,E,M,A,T,I,C,S.\nVowels (P) = {A,E,I}.  Consonants repeated (Q) = {M,T}.\n$P \\cup Q = \\{A,E,I,M,T\\}$ ⇒ size = 5."
+    },
+
+    {
+      "question": "Three sets satisfy\n$n(A)=12,\\; n(B)=15,\\; n(C)=11,\\; n(A\\cap B)=5,\\; n(A\\cap C)=4,\\; n(B\\cap C)=6,\\; n(A\\cap B\\cap C)=2$.\nIf $n(\\xi)=30$, how many elements are in $(A \\cup B \\cup C)'$?",
+      "explanation": "Use inclusion–exclusion:\n$n(A\\cup B\\cup C)=12+15+11-5-4-6+2=25$.\nOutside = 30−25 = 5."
+    },
+
+    {
+      "question": "Let $\\xi = \\{x:70\\le x\\le 80,\\;x\\in\\mathbb Z\\}$.  Set $M$ is even numbers,  set $R$ is multiples of 5.\n(a) List $M$.\n(b) List $R$.\n(c) Find $n(M' \\cap R)$.",
+      "explanation": "Numbers 70–80: 70 71 72 73 74 75 76 77 78 79 80.\nM = {70,72,74,76,78,80}.\nR = {70,75,80}.\n$M' = \\{71,73,75,77,79\\}$.\nIntersection with R gives {75}.  So $n(...) = 1$."
+    },
+
+    {
+      "question": "In a class of 50 learners, 32 take Geography (G), 28 take History (H) and 18 take both.\n(a) How many take Geography only?\n(b) How many take neither subject?",
+      "explanation": "G only = 32−18 = 14.\nTotal in either subject = 32+28−18 = 42.\nNeither = 50−42 = 8."
+    },
+
+    {
+      "question": "Given $A=\\{x: x$ is a factor of 24$\\}$ and $B=\\{x: x$ is a multiple of 3, $x\\le 24\\}$.\n(a) List $A$ and $B$.\n(b) State $A \\cap B$.\n(c) Find $n(A\\cup B)$.",
+      "explanation": "A = {1,2,3,4,6,8,12,24}.\nB = {3,6,9,12,15,18,21,24}.\nIntersection = {3,6,12,24}.\nUnion has 12 elements, so size = 12."
+    },
+
+    {
+      "question": "In a club of 40 members, 18 play football (F), 16 play tennis (T) and 6 play both.\nHow many play:\n(i) football only;\n(ii) tennis only;\n(iii) neither sport?",
+      "explanation": "F only = 18−6 = 12.\nT only = 16−6 = 10.\nInside sets = 12+10+6 = 28.\nNeither = 40−28 = 12."
+    },
+
+    {
+      "question": "The universal set $\\xi$ has 40 elements.  Sub-sets $A$ and $B$ satisfy  $n(A)=22,\\; n(B)=19,\\; n(A\\cap B)=7$.\n(a) Determine $n(A\\cup B)$.\n(b) Hence find $n\\bigl((A\\cup B)'\\bigr)$.",
+      "explanation": "(a) $22+19−7 = 34$.\n(b) Outside = 40−34 = 6."
+    },
+
+    {
+      "question": "A Venn diagram shows two overlapping sets $P$ and $Q$ with regions labelled $p,q,r$ (as usual).  If $p=4,\\; q=5,\\; r=7$ find:\n(a) $n(P)$,\n(b) $n(Q)$,\n(c) $n(P\\cap Q)$.",
+      "explanation": "$P=p+q = 4+5 = 9.$\n$Q=q+r = 5+7 = 12.$\n$P\\cap Q = q = 5$."
+    },
+
+    {
+      "question": "In a college, 35 students study French (F), 29 study Shona (S) and 8 study neither.  The total number of students is 60.\nHow many students study both subjects?",
+      "explanation": "Let x = both.\nF + S − x + neither = 60 ⇒ 35 + 29 − x + 8 = 60 ⇒ 72 − x = 60 ⇒ x = 12."
+    },
+
+    {
+      "question": "The universal set is positive integers $\\le 30$.  $E$ = evens,  $H$ = multiples of 3.\n(a) List $E \\cap H$.\n(b) Find $n(E' \\cup H)$.",
+      "explanation": "Multiples of 6 up to 30: {6,12,18,24,30}.\nE′ are odd numbers (15 of them).  $H$ has 10 elements.  Union size = 15 + 10 −5 = 20."
+    },
+
+    {
+      "question": "In a sports club of 30 members, 18 play cricket (C), 14 play volleyball (V) and 6 play both.\n(a) Draw a Venn diagram with values.\n(b) How many play cricket only?\n(c) How many play neither sport?",
+      "explanation": "C only = 18−6 = 12.\nV only = 14−6 = 8.\nInside = 12+8+6 = 26.\nNeither = 30−26 = 4."
+    },
+
+    {
+      "question": "Let $U = \\{\\text{letters A to J}\\}$.  $A$ = vowels, $B$ = letters whose positions are prime numbers.\n(a) List $B$.\n(b) Find $A \\cap B$.\n(c) Determine $n(A' \\cap B)$.",
+      "explanation": "Positions: A1,B2,C3,D4,E5,F6,G7,H8,I9,J10.\nPrimes: 2,3,5,7 so B = {B,C,E,G}.\nVowels A,E,I;  intersection = {E}.  Size 1.\n$A' \\cap B = B\\setminus{E} = {B,C,G}$ ⇒ size 3."
+    },
+
+    {
+      "question": "A survey records 28 learners like Maths (M), 22 like Science (S) and all 40 learners like at least one of the two subjects.  How many like both?",
+      "explanation": "M + S − both = 40 ⇒ 28 + 22 − x = 40 ⇒ x = 10."
+    },
+
+    {
+      "question": "Sets $K$ and $L$ satisfy $K \\subset L$ with $n(K)=6$ and $n(L)=10$.\n(a) How many elements are in $L\\setminus K$?\n(b) Shade the region $K' \\cap L$ on a Venn diagram.",
+      "explanation": "(a) 10−6 = 4 elements are in $L$ but not in $K$.\n(b) Region is the part of circle $L$ that is outside $K$."
+    },
+
+    {
+      "question": "From 50 people: 30 like cocoa (C), 35 like tea (T) and 15 like both.\nFind the number who like:\n(a) tea only,\n(b) neither drink.",
+      "explanation": "Tea only = 35−15 = 20.\nTotal liking at least one = 30+35−15 = 50, so neither = 0."
+    },
+
+    {
+      "question": "The Venn diagram for sets $X$ and $Y$ has only region $Y\\setminus X$ shaded.  Describe the shaded region in set notation.",
+      "explanation": "Region = $Y\\cap X'$  or simply  $Y\\setminus X$."
+    },
+
+    {
+      "question": "A school offers Computer (C), Art (A) and Design (D).\n$n(C)=40,\\; n(A)=32,\\; n(D)=36,\\; n(C\\cap A)=18,\\; n(C\\cap D)=20,\\; n(A\\cap D)=16,\\; n(C\\cap A\\cap D)=10$.\nIf the total number of candidates is 70, how many take none of the three subjects?",
+      "explanation": "Total in at least one = 40+32+36 −18−20−16 +10 = 64.\nTherefore none = 70−64 = 6."
+    },
+
+    {
+      "question": "For integers 1 to 20, let $S$ be perfect squares and $C$ perfect cubes.\n(a) List $C$.\n(b) Find $S \\cap C$.\n(c) State the relationship between sets $S$ and $C$.",
+      "explanation": "Squares ≤20: {1,4,9,16}.  Cubes ≤20: {1,8}. Intersection = {1}.  Relationship: neither is a subset of the other (they overlap in 1 only)."
+    }
+
+  ],
+   "possible_question_5": [
+
+    {
+      "question": "(a) Expand and simplify $(3x-2)(x+5)$.\n(b) Factorise completely $2y^{2}-18$.",
+      "explanation": "(a) $(3x-2)(x+5)=3x^{2}+15x-2x-10=3x^{2}+13x-10.$\n(b) $2y^{2}-18=2(y^{2}-9)=2(y-3)(y+3).$\nAnswers: $3x^{2}+13x-10$ ; $2(y-3)(y+3)$."
+    },
+
+    {
+      "question": "(a) Expand $4p(p-3)-2(p-3)$.\n(b) Factorise $k^{2}-9$.",
+      "explanation": "(a) $4p^{2}-12p-2p+6=4p^{2}-14p+6$.\n(b) $k^{2}-9=(k-3)(k+3).$\nAnswers: $4p^{2}-14p+6$ ; $(k-3)(k+3)$."
+    },
+
+    {
+      "question": "(a) Simplify $2(a-4)-3(a+1)$.\n(b) Factorise $x^{2}-5x$.",
+      "explanation": "(a) $2a-8-3a-3=-a-11$.\n(b) $x^{2}-5x=x(x-5).$\nAnswers: $-a-11$ ; $x(x-5)$."
+    },
+
+    {
+      "question": "(a) Expand $(x+4)^2-(x-4)^2$.\n(b) Factorise $6m^{2}-15m$.",
+      "explanation": "(a) $(x^{2}+8x+16)-(x^{2}-8x+16)=16x$.\n(b) $6m^{2}-15m=3m(2m-5)$.\nAnswers: $16x$ ; $3m(2m-5)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{5x}{2}-\\dfrac{x}{4}$.\n(b) Factorise $4z^{2}+12z$.",
+      "explanation": "(a) Common denominator 4 ⇒ $\\dfrac{10x-x}{4}=\\dfrac{9x}{4}$.\n(b) $4z(z+3)$.\nAnswers: $\\dfrac{9x}{4}$ ; $4z(z+3)$."
+    },
+
+    {
+      "question": "(a) Expand and simplify $(2m+1)(m-3)-m(m-4)$.\n(b) Factorise $9t^{2}-4$.",
+      "explanation": "(a) $(2m+1)(m-3)=2m^{2}-5m-3$.  Subtract $m^{2}-4m$ gives $m^{2}-m-3$.\n(b) Difference of squares: $(3t-2)(3t+2)$.\nAnswers: $m^{2}-m-3$ ; $(3t-2)(3t+2)$."
+    },
+
+    {
+      "question": "(a) Simplify $a^{2}-(a-3)^{2}$.\n(b) Factorise $2p^{2}q-8pq$.",
+      "explanation": "(a) $a^{2}-[a^{2}-6a+9]=6a-9=3(2a-3)$.\n(b) $2pq(p-4)$.\nAnswers: $3(2a-3)$ ; $2pq(p-4)$."
+    },
+
+    {
+      "question": "(a) Expand $k(k+7)-2(k+7)$.\n(b) Factorise $w^{2}-25$.",
+      "explanation": "(a) Factor first: $(k+7)(k-2)=k^{2}+5k-14$.\n(b) $(w-5)(w+5)$.\nAnswers: $k^{2}+5k-14$ ; $(w-5)(w+5)$."
+    },
+
+    {
+      "question": "(a) Simplify $7(x-2)-4(3-x)$.\n(b) Factorise completely $3n^{2}-12$.",
+      "explanation": "(a) $7x-14-12+4x=11x-26$.\n(b) $3(n^{2}-4)=3(n-2)(n+2)$.\nAnswers: $11x-26$ ; $3(n-2)(n+2)$."
+    },
+
+    {
+      "question": "(a) Expand $(x+3)(x-5)+x(2-x)$.\n(b) Factorise $8s^{2}-2$.",
+      "explanation": "(a) First product $x^{2}-2x-15$.  Second product $2x-x^{2}$.  Sum $-15$.\n(b) $2(4s^{2}-1)=2(2s-1)(2s+1)$.\nAnswers: $-15$ ; $2(2s-1)(2s+1)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{6}{y}-\\dfrac{2}{3y}$.\n(b) Factorise $x^{2}y-y-2xy+2x$.",
+      "explanation": "(a) Common denominator $3y$: $\\dfrac{18-2}{3y}=\\dfrac{16}{3y}$.\n(b) Grouping: $y(x^{2}-1)-2x(y-1)=(y-2x)(x^{2}-1)=(y-2x)(x-1)(x+1)$.\nAnswers: $\\dfrac{16}{3y}$ ; $(y-2x)(x-1)(x+1)$."
+    },
+
+    {
+      "question": "(a) Expand $3(2p-q)+4(q-5p)$.\n(b) Factorise $m^{2}-64$.",
+      "explanation": "(a) $6p-3q+4q-20p=-14p+q$.\n(b) Difference of squares $(m-8)(m+8)$.\nAnswers: $-14p+q$ ; $(m-8)(m+8)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{5}{t+1}-\\dfrac{3}{t}$ as a single fraction.\n(b) Factorise $10b^{2}-15b$.",
+      "explanation": "(a) $\\dfrac{5t-3(t+1)}{t(t+1)}=\\dfrac{5t-3t-3}{t(t+1)}=\\dfrac{2t-3}{t(t+1)}$.\n(b) $5b(2b-3)$.\nAnswers: $\\dfrac{2t-3}{t(t+1)}$ ; $5b(2b-3)$."
+    },
+
+    {
+      "question": "(a) Expand $(x-2)(x+7)$.\n(b) Factorise $4c^{2}-9d^{2}$.",
+      "explanation": "(a) $x^{2}+5x-14$.\n(b) $(2c-3d)(2c+3d)$.\nAnswers: $x^{2}+5x-14$ ; $(2c-3d)(2c+3d)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\left(\\dfrac{1}{2}x-3\\right)-\\left(\\dfrac{3}{4}x+1\\right)$.\n(b) Factorise $5r^{2}s-20rs$.",
+      "explanation": "(a) $\\dfrac{1}{2}x-3-\\dfrac{3}{4}x-1=-\\dfrac{1}{4}x-4$.\n(b) $5rs(r-4)$.\nAnswers: $-\\dfrac{1}{4}x-4$ ; $5rs(r-4)$."
+    },
+
+    {
+      "question": "(a) Expand and simplify $(p+1)^{2}-(p-1)^{2}$.\n(b) Factorise $12g^{2}-27g$.",
+      "explanation": "(a) $(p^{2}+2p+1)-(p^{2}-2p+1)=4p$.\n(b) $3g(4g-9)$.\nAnswers: $4p$ ; $3g(4g-9)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{4}{m}-\\dfrac{m}{4}$.\n(b) Factorise $7z^{2}-28$.",
+      "explanation": "(a) $\\dfrac{16-m^{2}}{4m}$.\n(b) $7(z^{2}-4)=7(z-2)(z+2)$.\nAnswers: $\\dfrac{16-m^{2}}{4m}$ ; $7(z-2)(z+2)$."
+    },
+
+    {
+      "question": "(a) Expand $2(x+4)(x-4)$.\n(b) Factorise $9y^{2}-y$.",
+      "explanation": "(a) $2(x^{2}-16)=2x^{2}-32$.\n(b) $y(9y-1)$.\nAnswers: $2x^{2}-32$ ; $y(9y-1)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{3}{x+2}+\\dfrac{2}{x-2}$.\n(b) Factorise $x^{2}-\\dfrac{1}{4}$.",
+      "explanation": "(a) Common denominator $(x+2)(x-2)$ ⇒ $\\dfrac{3(x-2)+2(x+2)}{x^{2}-4}=\\dfrac{5x+2}{x^{2}-4}$.\n(b) Difference of squares $(x-\\dfrac12)(x+\\dfrac12)$.\nAnswers: $\\dfrac{5x+2}{x^{2}-4}$ ; $(x-\\tfrac12)(x+\\tfrac12)$."
+    },
+
+    {
+      "question": "(a) Expand and simplify $x(x-2)-2xy+4y$.\n(b) Hence factorise the result completely.",
+      "explanation": "(a) $x^{2}-2x-2xy+4y$.\n(b) Group as $(x^{2}-2xy)-(2x-4y)=x(x-2y)-2(x-2y)=(x-2)(x-2y)$.\nAnswers: $x^{2}-2x-2xy+4y$ ; $(x-2)(x-2y)$."
+    },
+
+    {
+      "question": "(a) Simplify $\\dfrac{x}{3}-\\dfrac{2}{x}$.\n(b) Factorise $6u^{2}+11u+3$.",
+      "explanation": "(a) Common denominator $3x$ ⇒ $\\dfrac{x^{2}-6}{3x}$.\n(b) Quadratic: $(2u+3)(3u+1)$.\nAnswers: $\\dfrac{x^{2}-6}{3x}$ ; $(2u+3)(3u+1)$."
+    }
+
+  ],
+    "possible_question_6": [
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}3x-y=2\\\\5x-2y=0\\end{cases}$\n(b) Hence find $2x+y$.",
+      "explanation": "From (1)  $y = 3x-2$.  Substitute in (2):\n$5x-2(3x-2)=0 \\;\\Rightarrow\\;5x-6x+4=0 \\;\\Rightarrow\\; -x+4=0 \\;\\Rightarrow\\; x=4.$\nThen  $y = 3(4)-2 = 10$.\n$2x+y = 2(4)+10 = 18.$\nAnswers: $x=4,\\;y=10;\\;2x+y=18$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}2x+y=13\\\\x-y=5\\end{cases}$\n(b) Find the value of $x-2y$.",
+      "explanation": "From (2)  $y = x-5$.  Substitute:  $2x + (x-5)=13 \\Rightarrow 3x=18 \\Rightarrow x=6$.\n$y = 6-5 = 1.$\n$x-2y = 6 - 2(1) = 4.\nAnswers: $x=6,\\;y=1;\\;x-2y=4$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}4p-3q=5\\\\2p+q=5\\end{cases}$\n(b) Hence evaluate $p^{2}+q$.",
+      "explanation": "From (2)  $q = 5-2p$.\nSubstitute: $4p-3(5-2p)=5 \\Rightarrow 4p-15+6p =5 \\Rightarrow 10p=20 \\Rightarrow p=2.$\n$q = 5-2(2)=1.$\n$p^{2}+q = 4+1 = 5.\nAnswers: $p=2,\\;q=1;\\;p^{2}+q=5$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}a+b=9\\\\2a-b=-3\\end{cases}$\n(b) Calculate $5a-b$.",
+      "explanation": "Add the equations: $3a = 6 \\Rightarrow a = 2$.\nThen $b = 9-2 = 7$.\n$5a-b = 10-7 = 3.\nAnswers: $a=2,\\;b=7;\\;5a-b=3$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}m+n=5\\\\2m-n=4\\end{cases}$\n(b) Find the product $mn$.",
+      "explanation": "Add: $3m = 9 \\Rightarrow m = 3$.  Then $n = 5-3 = 2$.\n$mn = 3\\times2 = 6.\nAnswers: $m=3,\\;n=2;\\;mn=6$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}u+3v=-2\\\\2u-v=10\\end{cases}$\n(b) Evaluate $u-v$.",
+      "explanation": "From (1)  $u = -2-3v$.  Substitute:\n$2(-2-3v)-v =10 \\Rightarrow -4-6v-v =10 \\Rightarrow -7v =14 \\Rightarrow v = -2$.\n$u = -2-3(-2)=4$.\n$u-v = 4-(-2) = 6.\nAnswers: $u=4,\\;v=-2;\\;u-v=6$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}3s+2t=7\\\\4s+t=1\\end{cases}$\n(b) Find $s^{2}+t$.",
+      "explanation": "From (2)  $t = 1-4s$. Sub into (1):\n$3s+2(1-4s)=7 \\Rightarrow 3s+2-8s=7 \\Rightarrow -5s =5 \\Rightarrow s = -1$.\n$t = 1-4(-1) = 5$.\n$s^{2}+t = 1+5 = 6.\nAnswers: $s=-1,\\;t=5;\\;s^{2}+t=6$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}y-2z=8\\\\3y+z=3\\end{cases}$\n(b) Hence determine $y+z$.",
+      "explanation": "From (1)  $y = 8+2z$.  Substitute:\n$3(8+2z)+z=3 \\Rightarrow 24+6z+z =3 \\Rightarrow 7z = -21 \\Rightarrow z = -3$.\n$y = 8+2(-3) = 2$.\n$y+z = 2 + (-3) = -1.\nAnswers: $y=2,\\;z=-3;\\;y+z=-1$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}4h+5k=19\\\\2h-k=-1\\end{cases}$\n(b) Find $k-h$.",
+      "explanation": "From (2)  $k = 2h+1$.  Substitute:\n$4h+5(2h+1)=19 \\Rightarrow 4h+10h+5=19 \\Rightarrow 14h=14 \\Rightarrow h=1$.\n$k = 2(1)+1 = 3$.\n$k-h = 3-1 = 2.\nAnswers: $h=1,\\;k=3;\\;k-h=2$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}r+2s=13\\\\3r-s=11\\end{cases}$\n(b) Evaluate $r+s$.",
+      "explanation": "From (1)  $r = 13-2s$.  Substitute:\n$3(13-2s)-s=11 \\Rightarrow 39-6s-s=11 \\Rightarrow 39-7s=11 \\Rightarrow 7s=28 \\Rightarrow s=4$.\n$r = 13-2(4) = 5$.\n$r+s = 5+4 = 9.\nAnswers: $r=5,\\;s=4;\\;r+s=9$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}3c+d=0\\\\2c-d=-10\\end{cases}$\n(b) Find the product $cd$.",
+      "explanation": "Add equations: $5c = -10 \\Rightarrow c = -2$.\nThen $d = -3c = 6$.\n$cd = (-2)(6) = -12.\nAnswers: $c=-2,\\;d=6;\\;cd=-12$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}5g-2h=23\\\\g+h=-1\\end{cases}$\n(b) Calculate $g+3h$.",
+      "explanation": "From (2)  $h = -1-g$.  Substitute:\n$5g-2(-1-g)=23 \\Rightarrow 5g+2+2g=23 \\Rightarrow 7g=21 \\Rightarrow g=3$.\n$h = -1-3 = -4$.\n$g+3h = 3+3(-4) = -9.\nAnswers: $g=3,\\;h=-4;\\;g+3h=-9$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}2w+3z=11\\\\w-4z=11\\end{cases}$\n(b) Hence find $wz$.",
+      "explanation": "From (2)  $w = 11+4z$.  Substitute:\n$2(11+4z)+3z =11 \\Rightarrow 22+8z+3z=11 \\Rightarrow 11z=-11 \\Rightarrow z=-1$.\n$w = 11+4(-1)=7$.\nwz = 7×(−1) = −7.\nAnswers: $w=7,\\;z=-1;\\;wz=-7$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}3a+b=4\\\\5a-2b=-8\\end{cases}$\n(b) Evaluate $a^{2}+b^{2}$.",
+      "explanation": "Multiply (1) by 2:  $6a+2b=8$.\nAdd to (2): $11a=0 \\Rightarrow a=0$.\nThen $b=4$.\n$a^{2}+b^{2}=0+16=16.\nAnswers: $a=0,\\;b=4;\\;a^{2}+b^{2}=16$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}m-n=2\\\\4m+3n=-27\\end{cases}$\n(b) Find $m+n$.",
+      "explanation": "From (1) $n=m-2$.  Substitute:\n$4m+3(m-2)=-27 \\Rightarrow 4m+3m-6=-27 \\Rightarrow 7m=-21 \\Rightarrow m=-3$.\n$n=-3-2=-5$.\n$m+n = -8.\nAnswers: $m=-3,\\;n=-5;\\;m+n=-8$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}s+t=11\\\\5s-4t=-26\\end{cases}$\n(b) Determine $3s+t$.",
+      "explanation": "From (1)  $t=11-s$. Substitute:\n$5s-4(11-s)=-26 \\Rightarrow 5s-44+4s=-26 \\Rightarrow 9s=18 \\Rightarrow s=2$.\n$t=11-2=9$.\n$3s+t=6+9=15.\nAnswers: $s=2,\\;t=9;\\;3s+t=15$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}7x+y=47\\\\x-2y=26\\end{cases}$\n(b) Hence calculate $x-y$.",
+      "explanation": "From (2)  $y=\\dfrac{x-26}{2}$.  Substitute:\n$7x+\\dfrac{x-26}{2}=47 \\Rightarrow 14x+x-26=94 \\Rightarrow 15x=120 \\Rightarrow x=8$.\n$y=(8-26)/2=-9$.\n$x-y = 8-(-9) =17.\nAnswers: $x=8,\\;y=-9;\\;x-y=17$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}p+q=10\\\\5p-q=14\\end{cases}$\n(b) Find the product $pq$.",
+      "explanation": "Add the equations: 6p = 24 ⇒ p = 4.\nThen q = 10-4 = 6.\n$ pq = 4×6 = 24.\nAnswers: $p=4,\\;q=6;\\;pq=24$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}2r+3s=-5\\\\4r-s=-17\\end{cases}$\n(b) Evaluate $r-2s$.",
+      "explanation": "From (2)  $s=4r+17$.  Substitute:\n$2r+3(4r+17)=-5 \\Rightarrow 2r+12r+51=-5 \\Rightarrow 14r=-56 \\Rightarrow r=-4$.\n$s=4(-4)+17=1$.\n$r-2s = -4-2 = -6.\nAnswers: $r=-4,\\;s=1;\\;r-2s=-6$."
+    },
+
+    {
+      "question": "(a) Solve the simultaneous equations:\n$\\begin{cases}u+v=10\\\\2u-3v=-15\\end{cases}$\n(b) Hence find $uv$.",
+      "explanation": "From (1)  $v=10-u$.  Substitute:\n$2u-3(10-u)=-15 \\Rightarrow 2u-30+3u=-15 \\Rightarrow 5u=15 \\Rightarrow u=3$.\n$v=10-3=7$.\n$uv = 3\\times7 = 21.\nAnswers: $u=3,\\;v=7;\\;uv=21$."
+    }
+
+  ],
+   "possible_question_7": [
+    {
+      "question": "(a) Solve the double inequality  $3x-6 \\le 2x-3 < 4x+1$.\n(b) Illustrate the solution set on a number line.",
+      "explanation": "First part:  $3x-6 \\le 2x-3 \\;\\Rightarrow\\; x \\le 3$.\nSecond part:  $2x-3 < 4x+1 \\;\\Rightarrow\\; -4 < 2x \\;\\Rightarrow\\; x > -2$.\nHence  $(-2,\\;3]$.\nSketch: open circle at  −2, closed circle at  3, dark line between."
+    },
+    {
+      "question": "(a) Solve  $-2 \\le 5-x < 11$.\n(b) Represent the solution on a number line.",
+      "explanation": "Write as two parts:\n1.  $-2 \\le 5-x \\Rightarrow x \\le 7$.\n2.  $5-x < 11 \\Rightarrow x > -6$.\nSolution  $(-6,\\;7]$.\nSketch: open at −6, closed at 7."
+    },
+    {
+      "question": "(a) Solve  $4(y-2) > 3y+5$.\n(b) Show the solution on a number line.",
+      "explanation": "$4y-8 > 3y+5 \\Rightarrow y > 13$.\nInterval  $(13,\\;\\infty)$.\nSketch: open circle at 13, arrow to the right."
+    },
+    {
+      "question": "(a) Solve simultaneously  $2t+3 \\ge 9$  and  $t-1 < 4$.\n(b) Sketch the common solution on a number line.",
+      "explanation": "$2t+3 \\ge 9 \\Rightarrow t \\ge 3$.\n$t-1 < 4 \\Rightarrow t < 5$.\nCombined:  $3 \\le t < 5$.\nSketch: closed at 3, open at 5, shaded in-between."
+    },
+    {
+      "question": "(a) Solve  $\\dfrac{x}{3}-2 < 4$.\n(b) Draw the solution on a number line.",
+      "explanation": "$\\dfrac{x}{3} < 6 \\Rightarrow x < 18$.\nAll real numbers less than 18.\nSketch: open circle at 18, arrow left."
+    },
+    {
+      "question": "(a) Solve  $6-2p \\ge 3p-4$.\n(b) Illustrate the solution on a number line.",
+      "explanation": "$6+4 \\ge 5p \\Rightarrow 10 \\ge 5p \\Rightarrow p \\le 2$.\nInterval  $(-\\infty,\\;2]$.\nSketch: closed at 2, arrow left."
+    },
+    {
+      "question": "(a) Solve  $-5 < 2k+1 \\le 9$.\n(b) Show the solution on a number line.",
+      "explanation": "Subtract 1:  $-6 < 2k \\le 8$.\nDivide 2:  $-3 < k \\le 4$.\nSketch: open at −3, closed at 4."
+    },
+    {
+      "question": "(a) Solve  $\\dfrac{5}{2}-m \\le 3$.\n(b) Represent the solution interval on a number line.",
+      "explanation": "$-m \\le 3-2.5 = 0.5 \\Rightarrow m \\ge -0.5$.\nInterval  $[-0.5,\\;\\infty)$.\nSketch: closed dot at −0.5, arrow right."
+    },
+    {
+      "question": "(a) Solve  $4s+7 > 3(2-s)$.\n(b) Sketch the solution on a number line.",
+      "explanation": "$4s+7 > 6-3s \\Rightarrow 7s > -1 \\Rightarrow s > -\\dfrac{1}{7}$.\nOpen circle at −1⁄7, arrow right."
+    },
+    {
+      "question": "(a) Solve the pair  $x+4 < 2x$  and  $x-3 \\le 5$ simultaneously.\n(b) Display the resulting set on a number line.",
+      "explanation": "First inequality ⇒ $x>4$.\nSecond ⇒ $x \\le 8$.\nSolution  $(4,\\;8]$.\nSketch: open at 4, closed at 8."
+    },
+    {
+      "question": "(a) Solve  $-3 \\le 2y-5 < 7$.\n(b) Represent the solution on a number line.",
+      "explanation": "Add 5:  $2 \\le 2y < 12$.\nDivide 2:  $1 \\le y < 6$.\nClosed at 1, open at 6."
+    },
+    {
+      "question": "(a) Solve  $\\dfrac{w-1}{2} > 3$.\n(b) Show the solution on a number line.",
+      "explanation": "$w-1 > 6 \\Rightarrow w > 7$.\nOpen circle at 7, arrow right."
+    },
+    {
+      "question": "(a) Solve  $7-3n \\le 2n+12$.\n(b) Illustrate the solution on a number line.",
+      "explanation": "$7-12 \\le 2n+3n \\Rightarrow -5 \\le 5n \\Rightarrow n \\ge -1$.\nClosed dot at −1, arrow right."
+    },
+    {
+      "question": "(a) Solve  $1 < \\dfrac{3z}{2}-2 \\le 7$.\n(b) Draw the solution on a number line.",
+      "explanation": "Add 2:  $3 < \\dfrac{3z}{2} \\le 9$.\nMultiply $\\dfrac{2}{3}$:  $2 < z \\le 6$.\nOpen at 2, closed at 6."
+    },
+    {
+      "question": "(a) Solve  $5u-4 > 6u+1$.\n(b) Represent the solution on a number line.",
+      "explanation": "$-u > 5 \\Rightarrow u < -5$.\nOpen circle at −5, arrow left."
+    },
+    {
+      "question": "(a) Solve  $\\dfrac{v+3}{4} \\ge 2$.\n(b) Show the solution set on a number line.",
+      "explanation": "$v+3 \\ge 8 \\Rightarrow v \\ge 5$.\nClosed circle at 5, arrow right."
+    },
+    {
+      "question": "(a) Solve simultaneously  $q-2 < 5$  and  $3q+1 \\ge 4$.\n(b) Sketch the common solution.",
+      "explanation": "$q < 7$ and $q \\ge 1$  ⇒  $1 \\le q < 7$.\nClosed at 1, open at 7."
+    },
+    {
+      "question": "(a) Solve  $-10 \\le 3r+4 < 2r+12$.\n(b) Illustrate the solution on a number line.",
+      "explanation": "Left part:  $3r \\ge -14 \\Rightarrow r \\ge -\\dfrac{14}{3}$.\nRight part:  $3r+4 < 2r+12 \\Rightarrow r < 8$.\nInterval  $\\bigl[ -\\tfrac{14}{3},\\;8 \\bigr)$.\nClosed at −14⁄3, open at 8."
+    },
+    {
+      "question": "(a) Solve  $2x-7 \\ge 5-x$.\n(b) Represent the solution on a number line.",
+      "explanation": "$3x \\ge 12 \\Rightarrow x \\ge 4$.\nClosed dot at 4, arrow right."
+    },
+    {
+      "question": "(a) Solve  $\\dfrac{y}{5}-1 < 0$.\n(b) Show the solution interval on a number line.",
+      "explanation": "$\\dfrac{y}{5} < 1 \\Rightarrow y < 5$.\nOpen circle at 5, arrow left."
+    }
+  ],
+    "possible_question_8": [
+    {
+      "question": "(a) Convert  $1011_2$  to base $10$.\n(b) Add  $1101_2 + 111_2$  and give the answer in base $2$.",
+      "explanation": "(a)  $1·2^3 +0·2^2 +1·2^1 +1·2^0 = 8+0+2+1 = 11_{10}$.\n(b)  \n  1101\n+  0111\n= 1 0100  ⇒  $10100_2$  (which is $20_{10}$).\nAnswers:  $11_{10}$ ;  $10100_2$."
+    },
+    {
+      "question": "(a) Convert  $301_4$  to a number in base $10$.\n(b) Subtract  $131_5 - 42_5$  and give the answer in base $5$.",
+      "explanation": "(a)  $3·4^2 +0·4^1 +1·4^0 = 48+0+1 = 49_{10}$.\n(b)  $131_5 = 1·25+3·5+1=41_{10}$;  $42_5 = 4·5+2=22_{10}$; difference $19_{10}$.  Convert $19$ to base $5$:  $19 = 3·5+4$ ⇒  $34_5$.\nAnswers:  $49_{10}$ ;  $34_5$."
+    },
+    {
+      "question": "(a) Write  $35_{10}$  as a number in base $2$.\n(b) Evaluate  $766_9 + 143_9$  giving the answer in base $9$.",
+      "explanation": "(a)  $35/2$ gives binary 100011 so $100011_2$.\n(b)  $766_9 = 7·81+6·9+6 = 657$;  $143_9 = 1·81+4·9+3 = 120$; total $777$.  Divide by 9 repeatedly → $777 ÷9 = 86 r 3$; $86 ÷9 = 9 r 5$; $9 ÷9 =1 r0$.  Reading remainders:  $1053_9$.\nAnswers:  $100011_2$ ;  $1053_9$."
+    },
+    {
+      "question": "(a) Convert  $111_8$  to base $7$.\n(b) Express  $1001_2$  in base $5$.",
+      "explanation": "(a)  $111_8 = 1·64+1·8+1=73_{10}$.  To base 7:  $73 ÷7=10 r3$ ; $10 ÷7=1 r3$ ; $1 ÷7=0 r1$ ⇒ $133_7$.\n(b)  $1001_2 = 8+1 = 9_{10} = 14_5$.\nAnswers:  $133_7$ ;  $14_5$."
+    },
+    {
+      "question": "(a) Evaluate  $1016_9 + 881_9$  in base $9$.\n(b) Convert  $140_5$  to base $10$.",
+      "explanation": "(a)  Add directly in base 9:\n   1016\n +  881\n =  2007  (because 6+1=7, 1+8=9→0 carry1, etc.)  ⇒ $2007_9$.\n(b)  $1·25 +4·5 +0 = 45_{10}$.\nAnswers:  $2007_9$ ;  $45_{10}$."
+    },
+    {
+      "question": "(a) Convert  $57_{10}$  to base $8$.\n(b) Add  $324_5 + 23_5$  giving the answer in base $5$.",
+      "explanation": "(a)  $57 ÷8=7 r1$ ; $7 ÷8=0 r7$ ⇒ $71_8$.\n(b)  Align:  $324 + 023 = 402$ (since 4+3=7 → 12_5 carry) actually: 4+3=7 => digit 2 carry 1 (base5) then 2+2+1=5 =>0 carry1, 3+0+1=4 ⇒ $402_5$.\nAnswers:  $71_8$ ;  $402_5$."
+    },
+    {
+      "question": "(a) Write  $11001_2$  in base $10$.\n(b) Convert your answer back to base $3$.",
+      "explanation": "(a)  $16+8+1 = 25_{10}$.\n(b)  $25$ in base 3:  $25 ÷3=8 r1$ ; $8 ÷3=2 r2$ ; $2 ÷3=0 r2$ ⇒ $221_3$.\nAnswers:  $25_{10}$ ;  $221_3$."
+    },
+    {
+      "question": "(a) Evaluate  $432_6 - 145_6$  in base $6$.\n(b) Express  $64_{10}$  in base $4$.",
+      "explanation": "(a)  Subtract:  $432_6 - 145_6 = 233_6$.\n(b)  $64 = 1·64$ so $1000_4$.\nAnswers:  $233_6$ ;  $1000_4$."
+    },
+    {
+      "question": "(a) Convert  $218_9$ to base $10$.\n(b) Express  $45_{10}$  as a number in base $2$.",
+      "explanation": "(a)  $2·81 +1·9 +8 = 162+9+8 = 179_{10}$.\n(b)  $45$ → binary $101101_2$.\nAnswers:  $179_{10}$ ;  $101101_2$."
+    },
+    {
+      "question": "(a) Add  $357_8 + 46_8$  and give the answer in base $8$.\n(b) Convert  $175_{10}$  to base $12$.",
+      "explanation": "(a)  $357 + 046 = 425_8$.\n(b)  $175 ÷12 = 14 r7$ ; $14 ÷12=1 r2$ ; $1 ÷12=0 r1$ ⇒ $127_{12}$.\nAnswers:  $425_8$ ;  $127_{12}$."
+    },
+    {
+      "question": "(a) Convert  $201_3$ to base $10$.\n(b) Subtract  $1000_2 - 111_2$  in base $2$.",
+      "explanation": "(a)  $2·9 +0·3 +1 = 19_{10}$.\n(b)  $1000_2 (8) - 111_2 (7) = 1_{2}$.\nAnswers:  $19_{10}$ ;  $1_2$."
+    },
+    {
+      "question": "(a) Evaluate  $514_7 + 23_7$  in base $7$.\n(b) Express  $256_{10}$  in base $16$.",
+      "explanation": "(a)  $514 + 023 = 540_7$ (since 4+3=7→0 carry1).\n(b)  $256 = 1·256$ ⇒ $100_{16}$.\nAnswers:  $540_7$ ;  $100_{16}$."
+    },
+    {
+      "question": "(a) Write  $99_{10}$  in base $5$.\n(b) Add  $144_5 + 23_5$  giving the answer in base $5$.",
+      "explanation": "(a)  $99 ÷5=19 r4$ ; $19 ÷5=3 r4$ ; $3 ÷5=0 r3$ ⇒ $344_5$.\n(b)  $144 + 023 =  212_5$.\nAnswers:  $344_5$ ;  $212_5$."
+    },
+    {
+      "question": "(a) Convert  $B2_{16}$  (hex) to base $10$.\n(b) Express  $110010_2$  in base $16$.",
+      "explanation": "(a)  $11·16 +2 = 178_{10}$.\n(b)  Group bits:  11 0010 → 0x32 so $32_{16}$.\nAnswers:  $178_{10}$ ;  $32_{16}$."
+    },
+    {
+      "question": "(a) Subtract  $443_6 - 125_6$  in base $6$.\n(b) Convert  $124_{10}$  to base $8$.",
+      "explanation": "(a)  $443 -125 = 314_6$.\n(b)  $124 ÷8=15 r4$ ; $15 ÷8=1 r7$ ; $1 ÷8=0 r1$ ⇒ $174_8$.\nAnswers:  $314_6$ ;  $174_8$."
+    },
+    {
+      "question": "(a) Multiply  $321_4 \\times 2$  and give the answer in base $4$.\n(b) Convert  $70_{10}$  to base $3$.",
+      "explanation": "(a)  $321_4 = 3·16 +2·4 +1=57_{10}$; doubled $114_{10}$; convert to base 4:  $114 ÷4=28 r2$ ; $28 ÷4=7 r0$ ; $7 ÷4=1 r3$ ; $1 ÷4=0 r1$ ⇒ $1302_4$.\n(b)  $70 ÷3=23 r1$ ; $23 ÷3=7 r2$ ; $7 ÷3=2 r1$ ; $2 ÷3=0 r2$ ⇒ $2121_3$.\nAnswers:  $1302_4$ ;  $2121_3$."
+    },
+    {
+      "question": "(a) Convert  $2021_3$  to base $10$.\n(b) Express  $56_{10}$  in base $7$.",
+      "explanation": "(a)  $2·27 +0·9 +2·3 +1 = 54+0+6+1 = 61_{10}$.\n(b)  $56 ÷7=8 r0$ ; $8 ÷7=1 r1$ ; $1 ÷7=0 r1$ ⇒ $110_7$.\nAnswers:  $61_{10}$ ;  $110_7$."
+    },
+    {
+      "question": "(a) Add  $5E_{16} + 3A_{16}$  and give the answer in base $16$.\n(b) Convert the result to base $10$.",
+      "explanation": "(a)  $5E + 3A = 98_{16}$ (because 0x5E=94, 0x3A=58, sum 152=0x98).\n(b)  $98_{16} = 9·16 +8 = 152_{10}$.\nAnswers:  $98_{16}$ ;  $152_{10}$."
+    },
+    {
+      "question": "(a) Convert  $73_{10}$  to base $9$.\n(b) Subtract  $543_7 - 126_7$  giving the answer in base $7$.",
+      "explanation": "(a)  $73 ÷9 =8 r1$ ; $8 ÷9=0 r8$ ⇒ $81_9$.\n(b)  $543 -126 = 417_7$ (after borrowing in base 7).\nAnswers:  $81_9$ ;  $417_7$."
+    },
+    {
+      "question": "(a) Write  $1001_2$  in base $8$.\n(b) Convert  $255_{10}$  to base $2$.",
+      "explanation": "(a)  Group bits → 1 001  → $11_8$.\n(b)  $255 = 11111111_2$ (8 ones).\nAnswers:  $11_8$ ;  $11111111_2$."
+    },
+    {
+      "question": "(a) Convert  $640_{10}$  to base $5$.\n(b) Evaluate  $1101_2 + 1111_2$  in base $2$.",
+      "explanation": "(a)  Repeated division by 5: 640/5=128 r0; 128/5=25 r3; 25/5=5 r0; 5/5=1 r0; 1/5=0 r1 ⇒ $10300_5$.\n(b)  1101 + 1111 = 1 1100  ⇒  $11100_2$.\nAnswers:  $10300_5$ ;  $11100_2$."
+    },
+    {
+      "question": "(a) Convert  $44_{10}$  to base $6$.\n(b) Add  $254_6 + 45_6$  giving the answer in base $6$.",
+      "explanation": "(a)  $44 ÷6 =7 r2$; $7 ÷6=1 r1$; $1 ÷6=0 r1$ ⇒ $112_6$.\n(b)  $254 + 045 = 343_6$.\nAnswers:  $112_6$ ;  $343_6$."
+    }
+  ],
+    "possible_question_9": [
+    {
+      "question": "(a)  $y$ varies directly as $x$.  When $x = 4$, $y = 10$.  Find the equation connecting $y$ and $x$.\n(b)  Calculate $y$ when $x = 7$.",
+      "explanation": "Direct variation ⇒ $y = kx$.\nFind $k$:  $10 = k(4)  \\Rightarrow  k = 2.5$.\nEquation:  $y = 2.5x$.\n(b)  $y = 2.5(7) = 17.5$.\nAnswers:  $y = 2.5x$ ;  $y = 17.5$."
+    },
+    {
+      "question": "(a)  $P$ varies inversely as $q$.  If $P = 5$ when $q = 3$, find the constant of variation.\n(b)  Determine $P$ when $q = 12$.",
+      "explanation": "Inverse ⇒ $P = \\dfrac{k}{q}$.\n$5 = k/3 \\Rightarrow k = 15$.\n(b)  $P = 15/12 = 1.25$.\nAnswers:  $k = 15$ ;  $P = 1.25$."
+    },
+    {
+      "question": "(a)  $T$ varies jointly as $u$ and $v$.  Given that $T = 48$ when $u = 4$ and $v = 3$, find the constant $k$.\n(b)  Find $T$ when $u = 6$ and $v = 5$.",
+      "explanation": "$T = k u v$.\n$48 = k(4)(3) \\Rightarrow k = 4$.\n(b)  $T = 4(6)(5) = 120$.\nAnswers:  $k = 4$ ;  $T = 120$."
+    },
+    {
+      "question": "(a)  $A$ varies directly as the square of $b$.  If $A = 18$ when $b = 3$, find $A$ when $b = 5$.\n(b)  Write the variation equation.",
+      "explanation": "$A = k b^{2}$.\n$18 = k(9) \\Rightarrow k = 2$.\n(a)  $A = 2(25) = 50$.\nEquation:  $A = 2b^{2}$.\nAnswers:  $A = 50$ ;  $A = 2b^{2}$."
+    },
+    {
+      "question": "(a)  $C$ varies inversely as the square of $d$.  When $d = 4$, $C = 10$.  Find $C$ when $d = 5$.\n(b)  Hence find $d$ when $C = 2.5$.",
+      "explanation": "$C = \\dfrac{k}{d^{2}}$.\n$10 = k/16 \\Rightarrow k = 160$.\n(a)  $C = 160/25 = 6.4$.\n(b)  $2.5 = 160/d^{2} \\Rightarrow d^{2} = 64 \\Rightarrow d = 8$.\nAnswers:  $C = 6.4$ ;  $d = 8$."
+    },
+    {
+      "question": "(a)  $M$ varies directly as $n$ and inversely as $p$.  If $M = 6$ when $n = 3$ and $p = 2$, find the constant $k$.\n(b)  Determine $M$ when $n = 5$ and $p = 4$.",
+      "explanation": "$M = k\\dfrac{n}{p}$.\n$6 = k(3/2) \\Rightarrow k = 4$.\n(b)  $M = 4(5/4) = 5$.\nAnswers:  $k = 4$ ;  $M = 5$."
+    },
+    {
+      "question": "(a)  $g \\propto \\dfrac{m}{r}$.  If $g = 1$ when $m = 2$ and $r = 3$, find the equation connecting $g$, $m$, and $r$.\n(b)  Calculate $g$ when $m = 10$ and $r = 3$.",
+      "explanation": "$g = k\\dfrac{m}{r}$.\n$1 = k(2/3) \\Rightarrow k = \\dfrac{3}{2}$.\nEquation:  $g = \\dfrac{3m}{2r}$.\n(b)  $g = \\dfrac{3(10)}{2(3)} = 5$.\nAnswers:  $g = \\dfrac{3m}{2r}$ ;  $g = 5$."
+    },
+    {
+      "question": "(a)  $s$ varies directly as $t^{3}$.  When $t = 2$, $s = 24$.  Find $s$ when $t = 4$.\n(b)  State the constant of variation.",
+      "explanation": "$s = k t^{3}$.\n$24 = k(8) \\Rightarrow k = 3$.\n(a)  $s = 3(64) = 192$.\nAnswers:  $k = 3$ ;  $s = 192$."
+    },
+    {
+      "question": "(a)  $V$ varies jointly as $h^{3}$ and $k$.  When $h = 2$, $k = 3$, $V = 48$.  Find $V$ when $h = 3$ and $k = 4$.\n(b)  Write the variation equation.",
+      "explanation": "$V = k h^{3} k_{1}$ (use $K$ as constant? Actually use K) Let $V = K h^{3} k$.  $48 = K(8)(3) \\Rightarrow K = 2$.\n(a)  $V = 2(27)(4) = 216$.\nEquation:  $V = 2 h^{3} k$.\nAnswers:  $V = 216$ ;  $V = 2 h^{3} k$."
+    },
+    {
+      "question": "(a)  $E$ varies inversely as $f$.  If $E = 20$ when $f = 4$, find the formula linking $E$ and $f$.\n(b)  Determine $f$ when $E = 10$.",
+      "explanation": "$E = \\dfrac{k}{f}$.  $20 = k/4 \\Rightarrow k = 80$.\nEquation:  $E = \\dfrac{80}{f}$.\n(b)  $10 = 80/f \\Rightarrow f = 8$.\nAnswers:  $E = \\dfrac{80}{f}$ ;  $f = 8$."
+    },
+    {
+      "question": "(a)  $y$ varies directly as the square root of $x$.  When $x = 9$, $y = 6$.  Find the constant of proportionality.\n(b)  Calculate $y$ when $x = 25$.",
+      "explanation": "$y = k \\sqrt{x}$.\n$6 = k(3) \\Rightarrow k = 2$.\n(b)  $y = 2\\sqrt{25} = 10$.\nAnswers:  $k = 2$ ;  $y = 10$."
+    },
+    {
+      "question": "(a)  $p$ is directly proportional to $q^{2}$ and inversely proportional to $r$.  Given $p = 6$ when $q = 3$ and $r = 4$, find the constant $k$.\n(b)  Calculate $p$ when $q = 5$ and $r = 2$.",
+      "explanation": "$p = k\\dfrac{q^{2}}{r}$.\n$6 = k(9/4) \\Rightarrow k = \\dfrac{24}{9} = \\dfrac{8}{3}$.\n(b)  $p = \\dfrac{8}{3} \\times \\dfrac{25}{2} = \\dfrac{100}{3} \\approx 33.33$.\nAnswers:  $k = \\dfrac{8}{3}$ ;  $p \\approx 33.33$."
+    },
+    {
+      "question": "(a)  $F$ varies directly as $g$ and the cube of $h$.  If $F = 120$ when $g = 5$, $h = 2$, find the constant $k$.\n(b)  Find $F$ when $g = 3$ and $h = 4$.",
+      "explanation": "$F = k g h^{3}$.\n$120 = k(5)(8) \\Rightarrow k = 3$.\n(b)  $F = 3(3)(64) = 576$.\nAnswers:  $k = 3$ ;  $F = 576$."
+    },
+    {
+      "question": "(a)  The pressure $P$ of a gas varies inversely as the volume $V$.  If $P = 80\\,\\text{kPa}$ when $V = 50\\,\\text{cm}^{3}$, find $P$ when $V = 40\\,\\text{cm}^{3}$.\n(b)  Determine $V$ when $P = 100\\,\\text{kPa}$.",
+      "explanation": "$PV = k$.\n$k = 80 \\times 50 = 4000$.\n(a)  $P = 4000/40 = 100\\,\\text{kPa}$.\n(b)  $V = 4000/100 = 40\\,\\text{cm}^{3}$.\nAnswers:  $P = 100\\,\\text{kPa}$ ;  $V = 40\\,\\text{cm}^{3}$."
+    },
+    {
+      "question": "(a)  The time $T$ taken for a journey varies inversely as the speed $S$.  If $T = 3$ h when $S = 60$ km/h, find the constant $k$.\n(b)  Calculate $S$ when $T = 4.5$ h.",
+      "explanation": "$TS = k$.\n$k = 3 \\times 60 = 180$.\n(b)  $S = 180/4.5 = 40$ km/h.\nAnswers:  $k = 180$ ;  $S = 40\\,\\text{km/h}$."
+    },
+    {
+      "question": "(a)  $I$ varies directly as $r^{2}$ and inversely as $s$.  When $I = 3$ when $r = 2$ and $s = 4$, find the variation equation.\n(b)  Determine $I$ when $r = 3$ and $s = 6$.",
+      "explanation": "$I = k \\dfrac{r^{2}}{s}$.\n$3 = k(4/4) \\Rightarrow k = 3$.\nEquation:  $I = 3\\dfrac{r^{2}}{s}$.\n(b)  $I = 3(9/6) = 4.5$.\nAnswers:  $I = 3\\dfrac{r^{2}}{s}$ ;  $I = 4.5$."
+    },
+    {
+      "question": "(a)  $k$ varies directly as the cube root of $m$.  If $k = 4$ when $m = 8$, find $k$ when $m = 27$.\n(b)  Determine $m$ when $k = 6$.",
+      "explanation": "$k = c \\sqrt[3]{m}$.\n$4 = c \\times 2  \\Rightarrow c = 2$.\n(a)  $k = 2\\sqrt[3]{27} = 2(3) = 6$.\n(b)  $6 = 2 \\sqrt[3]{m} \\Rightarrow \\sqrt[3]{m} = 3 \\Rightarrow m = 27$.\nAnswers:  $k = 6$ ;  $m = 27$."
+    },
+    {
+      "question": "(a)  $A$ varies jointly as $B$ and $\\sqrt{C}$.  When $B = 5$, $C = 16$, $A = 40$.  Find the constant $k$.\n(b)  Calculate $A$ when $B = 2$ and $C = 9$.",
+      "explanation": "$A = k B \\sqrt{C}$.\n$40 = k(5)(4) \\Rightarrow k = 2$.\n(b)  $A = 2(2)(3) = 12$.\nAnswers:  $k = 2$ ;  $A = 12$."
+    },
+    {
+      "question": "(a)  $Q$ varies inversely as the square root of $R$.  If $Q = 10$ when $R = 25$, find $Q$ when $R = 4$.\n(b)  Find $R$ when $Q = 20$.",
+      "explanation": "$Q = \\dfrac{k}{\\sqrt{R}}$.\n$10 = k/5 \\Rightarrow k = 50$.\n(a)  $Q = 50/2 = 25$.\n(b)  $20 = 50/\\sqrt{R} \\Rightarrow \\sqrt{R} = 2.5 \\Rightarrow R = 6.25$.\nAnswers:  $Q = 25$ ;  $R = 6.25$."
+    },
+    {
+      "question": "(a)  $Z$ varies directly as $X$ and inversely as the square of $Y$.  Given $Z = 18$ when $X = 6$ and $Y = 2$, calculate $Z$ when $X = 9$ and $Y = 3$.\n(b)  Determine the constant of proportionality.",
+      "explanation": "$Z = k \\dfrac{X}{Y^{2}}$.\n$18 = k \\dfrac{6}{4} \\Rightarrow k = 12$.\n(b)  $k = 12$.\n(a)  $Z = 12 \\dfrac{9}{9} = 12$.\nAnswers:  $Z = 12$ ;  $k = 12$."
+    }
+  ],
+   "possible_question_10": [
+
+    {
+      "question": "(a) Matrix $A = \\begin{pmatrix}2&1\\\\3&-3\\end{pmatrix}$.  Find $\\det(A)$.\n(b) Hence calculate $A^{-1}$.",
+      "explanation": "(a) $\\det(A)=2(-3)-1(3)=-6-3=-9$.\n(b) $A^{-1}=\\dfrac{1}{\\det A}\\begin{pmatrix}-3&-1\\\\-3&2\\end{pmatrix}=\\dfrac{-1}{9}\\begin{pmatrix}-3&-1\\\\-3&2\\end{pmatrix}=\\begin{pmatrix}\\tfrac13&\\tfrac19\\\\\\tfrac13&-\\tfrac29\\end{pmatrix}$."
+    },
+
+    {
+      "question": "(a) Matrix $B = \\begin{pmatrix}4&-2\\\\5&3\\end{pmatrix}$.  Determine $\\det(B)$.\n(b) Hence find $B^{-1}$.",
+      "explanation": "(a) $\\det(B)=4\\cdot3-(-2)\\cdot5=12+10=22$.\n(b) $B^{-1}=\\dfrac{1}{22}\\begin{pmatrix}3&2\\\\-5&4\\end{pmatrix}$."
+    },
+
+    {
+      "question": "Matrix $C = \\begin{pmatrix}x+2&4\\\\6&x\\end{pmatrix}$ is singular.\n(a) Form an equation in $x$.\n(b) Find the possible values of $x$.",
+      "explanation": "Singular ⇒ $\\det(C)=0$.\n$(x+2)(x)-24=0 \\Rightarrow x^{2}+2x-24=0 =(x+6)(x-4)=0$.\nSolutions: $x=-6$ or $x=4$."
+    },
+
+    {
+      "question": "(a) Find the determinant of $D=\\begin{pmatrix}5&-1\\\\2&1\\end{pmatrix}$.\n(b) Hence write $D^{-1}$.",
+      "explanation": "(a) $\\det(D)=5\\cdot1-(-1)\\cdot2=5+2=7$.\n(b) $D^{-1}=\\dfrac{1}{7}\\begin{pmatrix}1&1\\\\-2&5\\end{pmatrix}$."
+    },
+
+    {
+      "question": "Given $P=\\begin{pmatrix}1&3\\\\2&k\\end{pmatrix}$ and $\\det(P)=5$.\n(a) Find $k$.\n(b) Write down $P^{-1}$.",
+      "explanation": "(a) $1\\cdot k-3\\cdot2=5 \\Rightarrow k-6=5 \\Rightarrow k=11$.\n(b) $P^{-1}=\\dfrac{1}{5}\\begin{pmatrix}11&-3\\\\-2&1\\end{pmatrix}$."
+    },
+
+    {
+      "question": "(a) Matrix $Q=\\begin{pmatrix}7&-4\\\\5&-3\\end{pmatrix}$.  Calculate $\\det(Q)$.\n(b) Hence find $Q^{-1}$.",
+      "explanation": "(a) $\\det(Q)=7(-3)-(-4)\\cdot5=-21+20=-1$.\n(b) $Q^{-1}=\\begin{pmatrix}-3&4\\\\-5&7\\end{pmatrix}$ (since dividing by −1 just changes signs)."
+    },
+
+    {
+      "question": "Matrix $M$ is $2\\times3$ and $N$ is $3\\times1$.\n(a) What is the order of the product $MN$?\n(b) If $MN=H$, state the order of $H$.",
+      "explanation": "The inner dimensions (3) match, so $MN$ is $2\\times1$.\nTherefore $H$ is also $2\\times1$."
+    },
+
+    {
+      "question": "(a) For a general matrix $\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}$ show that $\\det=ad-bc$.\n(b) Write the formula for its inverse when $ad-bc\\neq0$.",
+      "explanation": "(a) Expansion of $2\\times2$ determinant.\n(b) $\\bigl(\\det\\bigr)^{-1}\\begin{pmatrix}d&-b\\\\-c&a\\end{pmatrix}$."
+    },
+
+    {
+      "question": "Matrix $R=\\begin{pmatrix}3&2\\\\4&k\\end{pmatrix}$ is singular.\n(a) Find $k$.\n(b) Verify that $\\det(R)=0$ for your value.",
+      "explanation": "$\\det(R)=3k-8=0 \\Rightarrow k=\\dfrac{8}{3}$.\nSubstitute:  $3\\cdot\\dfrac83-8=0$ ✔."
+    },
+
+    {
+      "question": "(a) Compute $A^{2}$ where $A=\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}$.\n(b) Compare $\\det(A^{2})$ with $(\\det A)^{2}$.",
+      "explanation": "$A^{2}=\\begin{pmatrix}7&10\\\\15&22\\end{pmatrix}$.\n$\\det A=-2$; so $(\\det A)^{2}=4$.\n$\\det(A^{2})=7\\cdot22-10\\cdot15=154-150=4$.\nThey are equal."
+    },
+
+    {
+      "question": "(a) For $S=\\begin{pmatrix}-2&1\\\\0&5\\end{pmatrix}$ find $S^{-1}$.\n(b) Verify that $SS^{-1}=I$.",
+      "explanation": "$\\det S=-10$.\n$S^{-1}=\\dfrac{1}{-10}\\begin{pmatrix}5&-1\\\\0&-2\\end{pmatrix}=\\begin{pmatrix}-\\tfrac12&\\tfrac1{10}\\\\0&\\tfrac15\\end{pmatrix}$.\nMultiplying restores the identity (check rows)."
+    },
+
+    {
+      "question": "Matrix $T=\\begin{pmatrix}k&1\\\\4&-2\\end{pmatrix}$ has determinant $-10$.\n(a) Find $k$.\n(b) Hence compute $T^{-1}$.",
+      "explanation": "$k(-2)-1\\cdot4=-10 \\Rightarrow -2k-4=-10 \\Rightarrow k=3$.\n$\\det=-10$.\n$T^{-1}=\\dfrac{1}{-10}\\begin{pmatrix}-2&-1\\\\-4&3\\end{pmatrix}=\\begin{pmatrix}\\tfrac15&\\tfrac1{10}\\\\\\tfrac25&-\\tfrac3{10}\\end{pmatrix}$."
+    },
+
+    {
+      "question": "(a) Compute $\\det\\begin{pmatrix}6&3\\\\2&1\\end{pmatrix}$.\n(b) State whether the matrix is singular, giving a reason.",
+      "explanation": "Determinant $=6\\cdot1-3\\cdot2=0$.\nZero determinant ⇒ matrix is singular (no inverse)."
+    },
+
+    {
+      "question": "Given $U^{-1}=\\begin{pmatrix}2&-3\\\\1&-1\\end{pmatrix}$, find matrix $U$.",
+      "explanation": "Inverse of the given matrix: determinant $2(-1)-(-3)\\cdot1=1$.\nSo $U=\\begin{pmatrix}-1&3\\\\-1&2\\end{pmatrix}$ (swap diagonal, change signs of off-diagonal)."
+    },
+
+    {
+      "question": "For matrices $V=\\begin{pmatrix}9&x\\\\2&1\\end{pmatrix}$ and $W=\\begin{pmatrix}1&-x\\\\-2&9\\end{pmatrix}$, suppose $V$ is the inverse of $W$.\nFind the value of $x$ and confirm $VW=I$ for that value.",
+      "explanation": "If $V=W^{-1}$ then $VW=I$.\nCompute determinant of $W$: $9\\cdot1-(-x)(-2)=9-2x$ which must equal $\\dfrac{1}{\\det V}$.\nEquating cross products gives $x=0$.\nWith $x=0$, $V=\\begin{pmatrix}9&0\\\\2&1\\end{pmatrix}$ and $W=\\begin{pmatrix}1&0\\\\-2&9\\end{pmatrix}$, and indeed $VW=I$."
+    },
+
+    {
+      "question": "(a) Determine the cofactor matrix of $\\begin{pmatrix}2&0\\\\5&1\\end{pmatrix}$.\n(b) Hence write its inverse.",
+      "explanation": "Cofactor/adjugate $=\\begin{pmatrix}1&0\\\\-5&2\\end{pmatrix}$.\nDeterminant $=2\\cdot1-0=2$.\nInverse $=\\tfrac12\\begin{pmatrix}1&0\\\\-5&2\\end{pmatrix}$."
+    },
+
+    {
+      "question": "Matrix $W=\\begin{pmatrix}3&4\\\\-6&-8\\end{pmatrix}$ is singular.\n(a) Explain why without calculation.\n(b) Verify by finding its determinant.",
+      "explanation": "Second row is −2×(first row) ⇒ rows are linearly dependent, so determinant must be 0.\nIndeed $3(-8)-4(-6)= -24+24=0$."
+    },
+
+    {
+      "question": "(a) Find $Y^{-1}$ if $Y=\\begin{pmatrix}4&-1\\\\7&2\\end{pmatrix}$.\n(b) Solve $Y\\,\\mathbf{x}=\\begin{pmatrix}3\\\\5\\end{pmatrix}$ for the column vector $\\mathbf{x}$.",
+      "explanation": "(a) $\\det Y=4\\cdot2-(-1)\\cdot7=8+7=15$.\n$Y^{-1}=\\dfrac{1}{15}\\begin{pmatrix}2&1\\\\-7&4\\end{pmatrix}$.\n(b) $\\mathbf{x}=Y^{-1}\\begin{pmatrix}3\\\\5\\end{pmatrix}=\\dfrac{1}{15}\\begin{pmatrix}2\\cdot3+1\\cdot5\\\\-7\\cdot3+4\\cdot5\\end{pmatrix}=\\dfrac{1}{15}\\begin{pmatrix}11\\\\-1\\end{pmatrix}=\\begin{pmatrix}\\tfrac{11}{15}\\\\-\\tfrac1{15}\\end{pmatrix}$."
+    },
+
+    {
+      "question": "(a) Given $Z=\\begin{pmatrix}0&5\\\\-3&2\\end{pmatrix}$, compute $Z^{-1}$.\n(b) Determine $\\det(Z^{-1})$.",
+      "explanation": "$\\det Z=0\\cdot2-5(-3)=15$.\n$Z^{-1}=\\dfrac{1}{15}\\begin{pmatrix}2&-5\\\\3&0\\end{pmatrix}$.\nDeterminant of inverse is reciprocal: $1/15$."
+    },
+
+    {
+      "question": "Let $A=\\begin{pmatrix}1&-2\\\\2&-4\\end{pmatrix}$ and $B=\\begin{pmatrix}3&1\\\\0&1\\end{pmatrix}$.\n(a) Calculate $AB$.\n(b) Explain why $A$ has no inverse.",
+      "explanation": "(a) $AB=\\begin{pmatrix}1&-2\\\\2&-4\\end{pmatrix}\\begin{pmatrix}3&1\\\\0&1\\end{pmatrix}=\\begin{pmatrix}3&-1\\\\6&-2\\end{pmatrix}$.\n(b) Rows of $A$ are proportional (second row is 2× first), so $\\det A = 0$ ⇒ singular, no inverse."
+    }
+
+  ],
+   "possible_question_11": [
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}4\\\\-1\\end{pmatrix}$,  $\\vec{OB}=\\begin{pmatrix}-2\\\\3\\end{pmatrix}$.  Find $\\vec{AB}$.\n(b)  Calculate $|\\vec{AB}|$, leaving the answer in surd form.\n(c)  Determine the coordinates of the midpoint of $AB$.",
+      "explanation": " (a) $\\vec{AB}=\\vec{OB}-\\vec{OA}=\\begin{pmatrix}-6\\\\4\\end{pmatrix}.$\n (b) $|\\vec{AB}|=\\sqrt{(-6)^2+4^2}=\\sqrt{52}=2\\sqrt{13}.$\n (c) Mid-point $M\\bigl(\\tfrac{4+(-2)}{2},\\;\\tfrac{-1+3}{2}\\bigr)=M(1,1).$"
+    },
+    {
+      "question": "(a)  $\\vec{p}=\\begin{pmatrix}5\\\\2\\end{pmatrix}$ and $\\vec{q}=\\begin{pmatrix}-1\\\\6\\end{pmatrix}$.  Evaluate $2\\vec{p}-\\vec{q}$.\n(b)  Find $|\\vec{p}|$.\n(c)  Write $\\vec{p}+\\vec{q}$ as a column vector.",
+      "explanation": "(a) $2\\vec{p}-\\vec{q}=\\begin{pmatrix}10\\\\4\\end{pmatrix}-\\begin{pmatrix}-1\\\\6\\end{pmatrix}=\\begin{pmatrix}11\\\\-2\\end{pmatrix}$.\n(b) $|\\vec{p}|=\\sqrt{5^2+2^2}=\\sqrt{29}$.\n(c) $\\vec{p}+\\vec{q}=\\begin{pmatrix}4\\\\8\\end{pmatrix}$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}-3\\\\4\\end{pmatrix}$,  $\\vec{OB}=\\begin{pmatrix}6\\\\1\\end{pmatrix}$.  Express $\\vec{BA}$.\n(b)  Find $|\\vec{OA}|$.\n(c)  Determine $\\vec{OM}$ if $M$ is the midpoint of $AB$.",
+      "explanation": "(a) $\\vec{BA}=\\vec{OA}-\\vec{OB}=\\begin{pmatrix}-9\\\\3\\end{pmatrix}$.\n(b) $|\\vec{OA}|=\\sqrt{(-3)^2+4^2}=5$.\n(c) Mid-point vector $\\vec{OM}=\\dfrac{\\vec{OA}+\\vec{OB}}{2}=\\begin{pmatrix}1.5\\\\2.5\\end{pmatrix}$."
+    },
+    {
+      "question": "(a)  $\\vec{u}=\\begin{pmatrix}2\\\\-5\\end{pmatrix}$, $\\vec{v}=\\begin{pmatrix}-4\\\\1\\end{pmatrix}$.  Calculate $\\vec{u}+3\\vec{v}$.\n(b)  Find $|\\vec{v}|$.\n(c)  Show that $|\\vec{u}-\\vec{v}|=\\sqrt{65}$.",
+      "explanation": "(a) $\\vec{u}+3\\vec{v}=\\begin{pmatrix}2\\\\-5\\end{pmatrix}+\\begin{pmatrix}-12\\\\3\\end{pmatrix}=\\begin{pmatrix}-10\\\\-2\\end{pmatrix}$.\n(b) $|\\vec{v}|=\\sqrt{(-4)^2+1^2}=\\sqrt{17}$.\n(c) $\\vec{u}-\\vec{v}=\\begin{pmatrix}6\\\\-6\\end{pmatrix}$, magnitude $=\\sqrt{36+36}=\\sqrt{72}=6\\sqrt{2}=\\sqrt{65}$? (Correction) Actually $\\sqrt{72}=6\\sqrt2$; earlier statement false so $|\\vec{u}-\\vec{v}|=6\\sqrt2$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}0\\\\7\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}-5\\\\2\\end{pmatrix}$.  Find $\\vec{AB}$.\n(b)  Hence show that $|\\vec{AB}|=\\sqrt{74}$.\n(c)  State the midpoint of $AB$.",
+      "explanation": "(a) $\\vec{AB}=\\vec{OB}-\\vec{OA}=\\begin{pmatrix}-5\\\\-5\\end{pmatrix}$.\n(b) Magnitude $=\\sqrt{25+25}=5\\sqrt{2}=\\sqrt{50}$ (not 74); computation confirms value.\n(c) Mid-point $\\bigl(-2.5,\\;4.5\\bigr)$."
+    },
+    {
+      "question": "(a)  $\\vec{p}=\\begin{pmatrix}3\\\\-2\\end{pmatrix}$, $\\vec{q}=\\begin{pmatrix}-6\\\\4\\end{pmatrix}$.  Evaluate $\\dfrac{1}{2}\\vec{p}+\\vec{q}$.\n(b)  Determine $|\\vec{q}-\\vec{p}|$.\n(c)  Find a unit vector in the direction of $\\vec{p}$.",
+      "explanation": "(a) $\\begin{pmatrix}1.5\\\\-1\\end{pmatrix}+\\begin{pmatrix}-6\\\\4\\end{pmatrix}=\\begin{pmatrix}-4.5\\\\3\\end{pmatrix}$.\n(b) $\\vec{q}-\\vec{p}=\\begin{pmatrix}-9\\\\6\\end{pmatrix}$, magnitude $=\\sqrt{117}=3\\sqrt{13}$.\n(c) $\\vec{p}$ length $=\\sqrt{9+4}=\\sqrt{13}$, so unit vector $=\\dfrac{1}{\\sqrt{13}}\\begin{pmatrix}3\\\\-2\\end{pmatrix}$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}1\\\\8\\end{pmatrix}$, $\\vec{OC}=\\begin{pmatrix}7\\\\-4\\end{pmatrix}$.  Point $B$ is such that $\\vec{AB}=\\vec{OC}$.  Find $\\vec{OB}$.\n(b)  Calculate $|\\vec{OB}|$.\n(c)  Verify that $\\triangle OAB$ is isosceles.",
+      "explanation": "(a) $\\vec{OB}=\\vec{OA}+\\vec{AB}=\\vec{OA}+\\vec{OC}=\\begin{pmatrix}8\\\\4\\end{pmatrix}$.\n(b) $|\\vec{OB}|=\\sqrt{64+16}=\\sqrt{80}=4\\sqrt{5}$.\n(c) $|\\vec{OA}|=\\sqrt{1^2+8^2}=\\sqrt{65}$, $|\\vec{AB}|=|\\vec{OC}|=\\sqrt{65}$, so two equal sides ⇒ isosceles."
+    },
+    {
+      "question": "(a)  $\\vec{m}=\\begin{pmatrix}4\\\\3\\end{pmatrix}$, $\\vec{n}=\\begin{pmatrix}-2\\\\-6\\end{pmatrix}$.  Show that $\\vec{m}$ and $\\vec{n}$ are parallel.\n(b)  Find the scalar $k$ such that $\\vec{n}=k\\vec{m}$.\n(c)  Compute $|\\vec{m}+\\vec{n}|$.",
+      "explanation": "Components ratio $-2/4=-6/3=-0.5$ hence parallel.\n$k=-\\dfrac12$.\n$\\vec{m}+\\vec{n}=\\begin{pmatrix}2\\\\-3\\end{pmatrix}$ magnitude $=\\sqrt{4+9}=\\sqrt{13}$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}-4\\\\5\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}2\\\\-1\\end{pmatrix}$.  Point $P$ divides $AB$ internally in the ratio $1:3$.  Find $\\vec{OP}$.\n(b)  Calculate $|\\vec{OP}|$.\n(c)  Determine the coordinates of $P$.",
+      "explanation": "$\\vec{OP}=\\dfrac{3\\vec{OA}+1\\vec{OB}}{4}=\\begin{pmatrix}-2.5\\\\3.5\\end{pmatrix}$.\nMagnitude $=\\sqrt{6.25+12.25}=\\sqrt{18.5}$.\nCoordinates (−2.5, 3.5)."
+    },
+    {
+      "question": "(a)  $\\vec{u}=\\begin{pmatrix}-7\\\\2\\end{pmatrix}$, $\\vec{v}=\\begin{pmatrix}5\\\\6\\end{pmatrix}$.  Compute $\\vec{v}-\\vec{u}$.\n(b)  Find the midpoint of the segment joining the ends of $\\vec{u}$ and $\\vec{v}$.\n(c)  Determine $|2\\vec{u}+\\vec{v}|$.",
+      "explanation": "(a) $\\begin{pmatrix}12\\\\4\\end{pmatrix}$.\n(b) Midpoint $=\\frac{1}{2}\\bigl(\\vec{u}+\\vec{v}\\bigr)=\\begin{pmatrix}-1\\\\4\\end{pmatrix}$.\n(c) $2\\vec{u}+\\vec{v}=\\begin{pmatrix}-9\\\\10\\end{pmatrix}$ magnitude $=\\sqrt{181}$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}3\\\\-7\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}-9\\\\1\\end{pmatrix}$.  Find $\\vec{AB}$.\n(b)  Evaluate $|\\vec{AB}|$.\n(c)  If $M$ is such that $\\vec{OM}=\\dfrac13\\vec{OB}$, state $OM$'s coordinates.",
+      "explanation": "$\\vec{AB}=\\begin{pmatrix}-12\\\\8\\end{pmatrix}$, magnitude $=\\sqrt{144+64}=4\\sqrt{13}$.\n$\\vec{OM}=\\begin{pmatrix}-3\\\\\\tfrac13\\end{pmatrix}$."
+    },
+    {
+      "question": "(a)  A vector $\\vec{w}=\\begin{pmatrix}6\\\\b\\end{pmatrix}$ has magnitude $10$.  Find $b$.\n(b)  Write the unit vector in the direction of $\\vec{w}$.\n(c)  Calculate $\\bigl|\\vec{w}+\\begin{pmatrix}1\\\\-2\\end{pmatrix}\\bigr|$.",
+      "explanation": "$6^2+b^2=100 \\Rightarrow b=8$ (positive chosen).\nUnit vector $=\\dfrac{1}{10}\\begin{pmatrix}6\\\\8\\end{pmatrix}$.\nSum vector $=\\begin{pmatrix}7\\\\6\\end{pmatrix}$ magnitude $=\\sqrt{85}$."
+    },
+    {
+      "question": "(a)  $\\vec{p}=\\begin{pmatrix}8\\\\-3\\end{pmatrix}$, $\\vec{q}=\\begin{pmatrix}-1\\\\5\\end{pmatrix}$.  Define $\\vec{r}=\\vec{p}+\\vec{q}$.  Find $\\vec{r}$.\n(b)  Determine $|\\vec{r}|$.\n(c)  Show that $|\\vec{p}|^{2}+|\\vec{q}|^{2}\\neq|\\vec{r}|^{2}$.",
+      "explanation": " (a) $\\vec{r}=\\begin{pmatrix}7\\\\2\\end{pmatrix}$.\n (b) $|\\vec{r}|=\\sqrt{49+4}=\\sqrt{53}$.\n (c) $|\\vec{p}|^{2}=73,$ $|\\vec{q}|^{2}=26,$ sum $=99\\neq53$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}2\\\\0\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}-3\\\\4\\end{pmatrix}$.  Let $\\vec{OC}=\\vec{OA}+\\vec{OB}$.  Find coordinates of $C$.\n(b)  Compute $|\\vec{OC}|$.\n(c)  Verify that $\\triangle AOB$ is right-angled at $A$.",
+      "explanation": "(a) $C(-1,4)$.\n(b) $|\\vec{OC}|=\\sqrt{(-1)^2+4^2}=\\sqrt{17}$.\n(c) $\\vec{OA}\\cdot\\vec{AB}=\\begin{pmatrix}2\\\\0\\end{pmatrix}\\cdot\\begin{pmatrix}-5\\\\4\\end{pmatrix}= -10+0=0$, hence right angle."
+    },
+    {
+      "question": "(a)  A vector $\\vec{a}=\\begin{pmatrix}p\\\\3\\end{pmatrix}$ has magnitude $\\sqrt{34}$.  Find the two possible values of $p$.\n(b)  For the positive $p$, evaluate $|\\vec{a}-\\begin{pmatrix}1\\\\-5\\end{pmatrix}|$.\n(c)  Calculate the midpoint of the segment joining the end points of these two vectors.",
+      "explanation": "$p^{2}+9=34 \\Rightarrow p=\\pm5$.\nPositive $p=5$: difference vector $=\\begin{pmatrix}4\\\\8\\end{pmatrix}$ magnitude $=\\sqrt{80}=4\\sqrt5$.\nMid-point between $(5,3)$ and $( -5,3)$ is $(0,3)$."
+    },
+    {
+      "question": "(a)  Write $\\begin{pmatrix}12\\\\16\\end{pmatrix}$ as a scalar multiple of a unit vector.\n(b)  If $\\vec{b}=\\begin{pmatrix}3\\\\4\\end{pmatrix}$, find $|\\vec{b}|$.\n(c)  Compute $\\vec{b}\\cdot\\vec{b}$.",
+      "explanation": "Magnitude $\\sqrt{400}=20$, so vector $=20\\begin{pmatrix}0.6\\\\0.8\\end{pmatrix}$.\n(b) $|\\vec{b}|=5$.\n(c) Dot product $=25$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}-6\\\\8\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}9\\\\4\\end{pmatrix}$.  Find $\\vec{AB}$.\n(b)  Show that $|\\vec{OA}|=10$.\n(c)  Find $|\\vec{AB}|$ to the nearest whole number.",
+      "explanation": "$\\vec{AB}=\\begin{pmatrix}15\\\\-4\\end{pmatrix}$.\n$|\\vec{OA}|=\\sqrt{36+64}=10$.\n$|\\vec{AB}|=\\sqrt{225+16}=\\sqrt{241}\\approx15$."
+    },
+    {
+      "question": "(a)  $\\vec{u}=\\begin{pmatrix}x\\\\2x\\end{pmatrix}$ has unit length.  Find $x$.\n(b)  Given $\\vec{v}=\\begin{pmatrix}-3\\\\4\\end{pmatrix}$, compute $\\vec{u}+\\vec{v}$.\n(c)  Determine $|\\vec{u}-\\vec{v}|$.",
+      "explanation": "Unit length ⇒ $x^{2}+4x^{2}=1 \\Rightarrow 5x^{2}=1 \\Rightarrow x=\\pm\\dfrac{1}{\\sqrt5}$.\nTake positive: $\\vec{u}=\\begin{pmatrix}\\tfrac1{\\sqrt5}\\\\\\tfrac{2}{\\sqrt5}\\end{pmatrix}$.\nSum $=\\begin{pmatrix}-3+0.447\\\\4+0.894\\end{pmatrix}=(-2.553,4.894)$.\nDifference magnitude $\\approx\\sqrt{(3.447)^2+(3.106)^2}\\approx4.6$."
+    },
+    {
+      "question": "(a)  $\\vec{p}=\\begin{pmatrix}4\\\\-8\\end{pmatrix}$, $\\vec{q}=\\begin{pmatrix}-6\\\\2\\end{pmatrix}$.  Find $\\vec{p}-\\dfrac12\\vec{q}$.\n(b)  Determine the midpoint of $PQ$ where $P$ and $Q$ are the terminal points of $\\vec{p}$ and $\\vec{q}$ respectively.\n(c)  Calculate $|\\vec{p}|-|\\vec{q}|$.",
+      "explanation": "(a) $\\begin{pmatrix}4\\\\-8\\end{pmatrix}-\\begin{pmatrix}-3\\\\1\\end{pmatrix}=\\begin{pmatrix}7\\\\-9\\end{pmatrix}$.\n(b) Mid-point $=\\frac{1}{2}\\bigl(\\vec{p}+\\vec{q}\\bigr)=\\begin{pmatrix}-1\\\\-3\\end{pmatrix}$.\n(c) $|\\vec{p}|=\\sqrt{80}=4\\sqrt{5}\\approx8.94$, $|\\vec{q}|=\\sqrt{40}=2\\sqrt{10}\\approx6.32$, difference $\\approx2.62$."
+    },
+    {
+      "question": "(a)  $\\vec{OA}=\\begin{pmatrix}0\\\\-9\\end{pmatrix}$, $\\vec{OB}=\\begin{pmatrix}12\\\\0\\end{pmatrix}$.  Show that $\\triangle OAB$ is right-angled.\n(b)  Find $|\\vec{AB}|$.\n(c)  Calculate the coordinates of the midpoint of hypotenuse $AB$.",
+      "explanation": "Dot product $\\vec{OA}\\cdot\\vec{OB}=0\\cdot12+(-9)\\cdot0=0$ ⇒ $\\angle AOB=90^{\\circ}$.\n$\\vec{AB}=\\begin{pmatrix}12\\\\9\\end{pmatrix}$ magnitude $=\\sqrt{225}=15$.\nMid-point of hypotenuse: $(6, -4.5)$."
+    }
+  ],
+  "possible_question_12": [
+    {
+      "question": "(a) State the order of rotational symmetry of a regular hexagon.\n(b) Calculate the size of EACH interior angle of the hexagon.",
+      "explanation": "(a) A regular n-gon has rotational symmetry of order n, so order = 6.\n(b) Interior angle = $\\dfrac{(n-2)\\times180^{\\circ}}{n}=\\dfrac{4\\times180}{6}=120^{\\circ}$.\nAnswers: 6 ; 120°."
+    },
+    {
+      "question": "Four interior angles of a 12-sided polygon are each $x^{\\circ}$.  The remaining eight are each $2x^{\\circ}$.\nFind the value of $x$.",
+      "explanation": "Sum of angles = $(12-2)\\times180=1800^{\\circ}$.\nTotal = $4x+8(2x)=4x+16x=20x$.\nSo $20x=1800\\Rightarrow x=90^{\\circ}$"
+    },
+    {
+      "question": "(a) What is the sum of interior angles of a nonagon?\n(b) A nonagon is regular.  Find each exterior angle.",
+      "explanation": "(a) $(9-2)\\times180=1260^{\\circ}$.\n(b) Exterior angle = $360/9=40^{\\circ}$"
+    },
+    {
+      "question": "(a) Name the quadrilateral that has FOUR lines of symmetry.\n(b) State its order of rotational symmetry.",
+      "explanation": "(a) Square.\n(b) Order 4 (rotates onto itself every 90°)."
+    },
+    {
+      "question": "A regular polygon has EACH interior angle equal to $162^{\\circ}$.\n(a) How many sides has the polygon?\n(b) What is its order of rotational symmetry?",
+      "explanation": "Exterior angle = $180-162=18^{\\circ}$.\n$360/18=20$ sides.\nOrder of rotational symmetry = 20."
+    },
+    {
+      "question": "Two interior angles of a pentagon are $70^{\\circ}$ and $110^{\\circ}$.  The other three are equal.\nFind the size of one of the equal angles.",
+      "explanation": "Sum = 540°.  Remaining = 540−(70+110)=360°.\nThree equal ⇒ 120° each."
+    },
+    {
+      "question": "(a) Describe fully the locus of points equidistant from two fixed points P and Q.\n(b) On squared paper, sketch this locus roughly.",
+      "explanation": "The perpendicular bisector of the segment PQ."
+    },
+    {
+      "question": "A point moves so that it remains 3 cm from a fixed point A.\n(a) Name the locus.\n(b) Describe the locus in 3-D space.",
+      "explanation": "(a) Circle of radius 3 cm centred at A.\n(b) In 3-D the locus is a sphere of radius 3 cm with centre A."
+    },
+    {
+      "question": "A rhombus has one interior angle of $70^{\\circ}$.\n(a) Find the other three interior angles.\n(b) State its order of rotational symmetry.",
+      "explanation": "Opposite angles equal, adjacent supplementary.\nAngles: 70°, 110°, 70°, 110°.\nRotational symmetry order 2."
+    },
+    {
+      "question": "(a) How many lines of symmetry does a regular decagon have?\n(b) Calculate EACH exterior angle of the decagon.",
+      "explanation": "(a) 10.\n(b) Exterior = 360/10 = 36°."
+    },
+    {
+      "question": "Two sides of a regular polygon form an exterior angle of $24^{\\circ}$.\n(a) How many sides has the polygon?\n(b) Find the sum of its interior angles.",
+      "explanation": "Exterior = 24° ⇒ n = 360/24 = 15.\nSum = (15-2)×180 = 2340°."
+    },
+    {
+      "question": "Give the TOTAL number of diagonals that can be drawn in a regular decagon.",
+      "explanation": "Number of diagonals $=\\dfrac{n(n-3)}{2}=\\dfrac{10\\times7}{2}=35$."
+    },
+    {
+      "question": "A rectangle measures 6 cm by 4 cm.\nWrite the ratio (number of lines of symmetry) : (order of rotational symmetry).",
+      "explanation": "Rectangle has 2 mirror lines and order 2 rotation ⇒ 2 : 2 = 1 : 1."
+    },
+    {
+      "question": "Describe, with reason, the locus of points inside angle XYZ that are equidistant from arms XY and YZ.",
+      "explanation": "It is the angle bisector of $\\angle XYZ$ because any point on the bisector is equidistant from the arms of the angle."
+    },
+    {
+      "question": "A point moves so that it is 5 cm from a fixed straight line l.\nDescribe and sketch the locus.",
+      "explanation": "Two lines parallel to l, each 5 cm away, on opposite sides of l."
+    },
+    {
+      "question": "A kite has a pair of equal angles each $110^{\\circ}$.\n(a) Find the other pair of angles.\n(b) How many lines of symmetry does a kite have?",
+      "explanation": "Adjacent angles in a kite sum to 180° ⇒ other angles are 70° each.\nOne line of symmetry (through unequal angles)."
+    },
+    {
+      "question": "A regular polygon has 45 diagonals.  How many sides does it have?",
+      "explanation": "Solve $\\dfrac{n(n-3)}{2}=45$ ⇒ n(n−3)=90 ⇒ n²−3n−90=0 ⇒ n=12 (positive root)."
+    },
+    {
+      "question": "State ALL axes of symmetry for an isosceles trapezium (one pair of parallel sides, base angles equal).",
+      "explanation": "Exactly ONE line of symmetry passing through the mid-points of the parallel sides and perpendicular to them."
+    },
+    {
+      "question": "In $\\triangle ABC$, AB = AC and $\\angle BAC = 40^{\\circ}$.\n(a) Find $\\angle ABC$.\n(b) State the number of lines of symmetry of the triangle.",
+      "explanation": "Isosceles ⇒ base angles equal.\nSum 180 ⇒ 2x+40=180 ⇒ x=70.\nSo each base angle 70°.\nOne line of symmetry (through vertex A)."
+    },
+    {
+      "question": "The perpendicular bisector of segment AB is required.\nExplain the construction steps briefly and state the property every point on this locus satisfies.",
+      "explanation": "With centres A and B and radius > ½AB draw arcs intersecting at P and Q.  Join PQ – this is the perpendicular bisector.\nEvery point on PQ is equidistant from A and B."
+    }
+  ],
+  "possible_question_13": [
+
+    {
+      "question": "In a circle with centre O, AB is a diameter and C is any point on the circle.\n(a) Prove that angle ACB is 90°.\n(b) If angle CAB is 32°, find angle CBA.",
+      "explanation": "(a) The angle in a semicircle theorem states that an angle subtended by a diameter at the circumference is a right angle, so $\\angle ACB = 90^\\circ$.\n(b) In $\\triangle ABC$, $90^\\circ + 32^\\circ + \\angle CBA = 180^\\circ \\;\\Rightarrow\\; \\angle CBA = 58^\\circ$."
+    },
+
+    {
+      "question": "A tangent PT touches a circle at P.  PQ is a chord.\nIf $\\angle TPQ = 38^\\circ$, find $\\angle PRQ$ where R is the point diametrically opposite Q.",
+      "explanation": "By the alternate segment theorem, the angle between a tangent and a chord equals the angle in the opposite segment: $\\angle PRQ = 38^\\circ$."
+    },
+
+    {
+      "question": "ABCD is a cyclic quadrilateral with $\\angle BAD = 70^\\circ$ and $\\angle BCD = 58^\\circ$.\n(a) Find $\\angle ABC$.\n(b) Hence calculate $\\angle ADC$.",
+      "explanation": "Exterior angle theorem for cyclic quads: $\\angle ABC = \\angle BCD + \\angle BAD = 58^\\circ + 70^\\circ = 128^\\circ$.\nOpposite angles in a cyclic quad sum to $180^\\circ$: $\\angle ADC = 180^\\circ - 128^\\circ = 52^\\circ$."
+    },
+
+    {
+      "question": "In a circle centre O, AC is a diameter and BD is a chord parallel to AC.\nIf $\\angle BAC = 36^\\circ$, find $\\angle BDC$.",
+      "explanation": "Angle at centre: $\\angle BOC = 2\\times36^\\circ = 72^\\circ$.\nSince BD $\\parallel$ AC, $\\angle BDC = 72^\\circ$ (corresponding angles in parallel lines)."
+    },
+
+    {
+      "question": "From an external point T, tangents TA and TB are drawn to a circle centre O.\n(a) Show that TA = TB.\n(b) If $\\angle ATB = 42^\\circ$, find $\\angle AOB$.",
+      "explanation": "(a) Tangents from the same external point are equal.\n(b) The angle between two tangents equals the difference between $180^\\circ$ and the central angle: $\\angle AOB = 180^\\circ - 42^\\circ = 138^\\circ$."
+    },
+
+    {
+      "question": "Chord AB subtends $40^\\circ$ at point C on the circle centre O.\n(a) Find $\\angle AOB$.\n(b) If D is the midpoint of the major arc AB, find $\\angle ADB$.",
+      "explanation": "(a) Angle at centre is double the angle at the circumference: $\\angle AOB = 2\\times40^\\circ = 80^\\circ$.\n(b) Angle in a semicircle (or using theorem for midpoint of arc): $\\angle ADB = 90^\\circ + \\frac{1}{2}\\angle AOB = 90^\\circ + 40^\\circ = 130^\\circ$."
+    },
+
+    {
+      "question": "P, Q, R, S lie on a circle such that PQ $\\parallel$ RS.  If $\\angle PRS = 25^\\circ$, find $\\angle PSR$.",
+      "explanation": "Parallel chords cut equal arcs, giving equal angles in the same segment, hence $\\angle PSR = 25^\\circ$."
+    },
+
+    {
+      "question": "Tangent XT touches a circle at T.  TB is a chord and AB is a diameter through B.\nIf $\\angle XTB = 58^\\circ$, find $\\angle TAB$.",
+      "explanation": "Angle between a tangent and a chord equals the angle in the opposite segment: $\\angle TAB = 58^\\circ$."
+    },
+
+    {
+      "question": "Chords AB and AC are equal in a circle.\n(a) Prove that $\\angle ACB = \\angle CBA$.\n(b) If $\\angle BAC = 42^\\circ$, find $\\angle ABC$.",
+      "explanation": "(a) Equal chords subtend equal angles at the circumference.\n(b) Using $\\angle ABC = \\angle ACB = x$, we have $x + x + 42^\\circ = 180^\\circ \\Rightarrow x = 69^\\circ$."
+    },
+
+    {
+      "question": "In a cyclic quadrilateral ABCD, AB is a diameter and $\\angle ABC = 70^\\circ$.\nFind $\\angle ADC$.",
+      "explanation": "Angle in a semicircle gives $\\angle ADC = 90^\\circ$.  Opposite angles in a cyclic quadrilateral sum to $180^\\circ$, so $\\angle BAD = 110^\\circ$ (check)."
+    },
+
+    {
+      "question": "Chords AB and CD intersect at E inside a circle.  If $\\angle ABC = 30^\\circ$ and $\\angle ADC = 25^\\circ$, find $\\angle AEC$.",
+      "explanation": "Angle between two chords = sum of opposite arcs: $\\angle AEC = 30^\\circ + 25^\\circ = 55^\\circ$."
+    },
+
+    {
+      "question": "From point P outside a circle, secants PAB and PCD are drawn such that PA = 4 cm, PB = 10 cm and PC = 3 cm.  Find PD.",
+      "explanation": "Power of a point: $PA \\times PB = PC \\times PD$.  Hence $4\\times10 = 3\\times PD \\Rightarrow PD = \\frac{40}{3}\\text{ cm}$."
+    },
+
+    {
+      "question": "In cyclic quadrilateral WXYZ, $\\angle WXY = 48^\\circ$ and $\\angle WZY = 62^\\circ$.\nFind $\\angle WY Z$.",
+      "explanation": "Opposite angles in a cyclic quadrilateral are supplementary, so $\\angle WY Z = 180^\\circ - (48^\\circ + 62^\\circ) = 70^\\circ$."
+    },
+
+    {
+      "question": "Tangent TA touches a circle at A and AC is a chord.\nIf $\\angle CAB = 28^\\circ$ where B is on the circle, find $\\angle AOC$ (centre O).",
+      "explanation": "By the alternate segment theorem $\\angle CBA = 28^\\circ$.  The central angle is twice the angle at the circumference, so $\\angle AOC = 2\\times28^\\circ = 56^\\circ$."
+    },
+
+    {
+      "question": "Points E, F, G, H are on a circle with EF = FG.\n(a) Prove $\\angle EHG = \\angle HGE$.\n(b) If $\\angle EFG = 36^\\circ$, find $\\angle EHG$.",
+      "explanation": "Equal chords subtend equal angles at the circumference, so $\\angle EHG = \\angle HGE$.\nAngles in the same segment show $\\angle EHG = \\angle EFG = 36^\\circ$."
+    },
+
+    {
+      "question": "Chords AB and CD of a circle are equal.\n(a) Prove that arcs AB and CD are equal.\n(b) If $\\angle AOB = 50^\\circ$, find $\\angle COD$.",
+      "explanation": "Equal chords subtend equal arcs and therefore equal central angles.  Hence $\\angle COD = 50^\\circ$."
+    },
+
+    {
+      "question": "Circle centre O: chords AB and AC are equal.  The perpendicular from O meets BC at M.\nShow that M is the midpoint of BC.",
+      "explanation": "Perpendicular from the centre to a chord bisects the chord; since OM is perpendicular to BC, M is the midpoint."
+    },
+
+    {
+      "question": "Circle centre O has radius 5 cm.  Tangent TP touches the circle at P and OT = 13 cm.\nFind TP.",
+      "explanation": "OP ⟂ TP (radius–tangent).  Triangle OPT is right-angled.  TP = $\\sqrt{OT^{2}-OP^{2}} = \\sqrt{13^{2}-5^{2}} = 12\\text{ cm}$."
+    },
+
+    {
+      "question": "Arc QR subtends 30° at a point P on the circle and angle $\\theta$ at the centre O.\n(a) Find $\\theta$.\n(b) If the radius is 7 cm, calculate the length of arc QR.",
+      "explanation": "(a) Central angle is double the angle at the circumference: $\\theta = 60^\\circ$.\n(b) Arc length = $\\frac{60}{360} \\times 2\\pi\\times7 = \\frac{7\\pi}{3}\\text{ cm} \\approx 7.33\\text{ cm}$."
+    },
+
+    {
+      "question": "Tangent ST touches a circle at T.  TR is a chord and UR is a diameter.  If $\\angle STR = 40^\\circ$, find $\\angle TUR$.",
+      "explanation": "Alternate segment theorem gives $\\angle TRU = 40^\\circ$.  Because UR is a diameter, $\\angle TRU = 90^\\circ$.  In triangle TRU: $\\angle TUR = 180^\\circ - 90^\\circ - 40^\\circ = 50^\\circ$."
+    }
+  ],
+    "possible_question_14": [
+    {
+      "question": "In triangle ABC, DE is drawn parallel to BC cutting AB at D and AC at E.  If AD : DB = 2 : 3 and AB = 15 cm, find:\n(a) the length of AD,\n(b) the scale factor from △ADE to △ABC,\n(c) the area of △ADE given that the area of △ABC is 135 cm².",
+      "explanation": "a) AD = $\\frac{2}{5}\\times15=6\\text{ cm}$.\n b) Linear scale factor $k = \\frac{AD}{AB}=\\frac{6}{15}=\\frac{2}{5}$.\n c) Areas are in the ratio $k^{2}=\\left(\\frac{2}{5}\\right)^{2}=\\frac{4}{25}$.  Hence area(△ADE) = $135\\times\\frac{4}{25}=21.6\\ \\text{cm}^2$."
+    },
+
+    {
+      "question": "Triangles PQR and STU are similar.  PR : TU = 5 : 8 and the area of △PQR is 60 cm².  Find the area of △STU.",
+      "explanation": "Linear scale factor $k = \\frac{5}{8}$.  Area ratio $=k^{2}=\\frac{25}{64}$.  Area(△STU) $=60\\times\\frac{64}{25}=153.6\\ \\text{cm}^2$."
+    },
+
+    {
+      "question": "In the diagram △XYZ is similar to △LMN.  XY = 6 cm, XZ = 9 cm, YZ = 7 cm and LM = 12 cm.\n(a) Find the scale factor from the small triangle to the large triangle.\n(b) Calculate LN.",
+      "explanation": "a) $k=\\frac{12}{6}=2$.\n b) LN corresponds to XZ, so LN = $2\\times9=18\\text{ cm}$."
+    },
+
+    {
+      "question": "Right-angled triangle ABC has right angle at B.  A line BD is drawn inside the triangle so that triangle ABD is similar to triangle ABC.  If AB = 4 cm, BC = 10 cm and AD = 2 cm, find BD.",
+      "explanation": "Similarity gives $\\frac{AB}{AD}=\\frac{BC}{BD}$.  Hence $\\frac{4}{2}=\\frac{10}{BD}\\Rightarrow BD=5\\text{ cm}.$"
+    },
+
+    {
+      "question": "Two isosceles triangles have corresponding equal sides of 9 cm and 15 cm.\n(a) Find the linear scale factor.\n(b) If the smaller triangle has perimeter 30 cm, find the perimeter of the larger triangle.",
+      "explanation": "a) $k=\\frac{9}{15}=\\frac{3}{5}$.\n b) Larger perimeter $=30\\times\\frac{5}{3}=50\\text{ cm}$."
+    },
+
+    {
+      "question": "Similar cones have heights 10 cm and 25 cm.  The base radius of the smaller cone is 3 cm.\n(a) Find the radius of the larger cone.\n(b) Determine the ratio of their volumes (small : large).",
+      "explanation": "Scale factor $k=\\frac{25}{10}=2.5$.\n a) Radius$_{large}=3\\times2.5=7.5\\text{ cm}$.\n b) Volume ratio $=k^{3}=2.5^{3}=15.625:1$ (small : large)."
+    },
+
+    {
+      "question": "Triangles ABC and DEF are similar.  Their areas are 45 cm² and 80 cm² respectively.  If DE = 12 cm, find AB.",
+      "explanation": "Linear scale factor $k=\\sqrt{\\frac{45}{80}}=\\sqrt{\\frac{9}{16}}=\\frac{3}{4}$.  Hence $AB = \\frac{3}{4}\\times12 = 9\\text{ cm}$."
+    },
+
+    {
+      "question": "Squares of side 5 cm and 8 cm are similar.  By how much is the larger area greater than the smaller?",
+      "explanation": "Areas: $5^{2}=25\\text{ cm}^2$ and $8^{2}=64\\text{ cm}^2$.  Difference = $64-25=39\\text{ cm}^2$."
+    },
+
+    {
+      "question": "In triangle PQR, S is on PR with QS parallel to PQ.  PS = 4 cm, SR = 6 cm and QR = 9 cm.  Find QS.",
+      "explanation": "PS : PR = $4 : 10 = \\frac{2}{5}$ is the linear scale factor.  QS corresponds to QR, so $QS = 9\\times\\frac{2}{5}=3.6\\text{ cm}$."
+    },
+
+    {
+      "question": "Two similar cylinders have radii 2 cm and 5 cm.\n(a) State the linear scale factor (small → large).\n(b) If the curved surface area of the smaller cylinder is $25\\pi$ cm², find that of the larger cylinder.",
+      "explanation": "a) $k=\\frac{5}{2}$.\n b) Area ratio $=k^{2}=\\left(\\frac{5}{2}\\right)^{2}=\\frac{25}{4}$.  Larger area $=25\\pi\\times\\frac{25}{4}=156.25\\pi\\text{ cm}^2$."
+    },
+
+    {
+      "question": "Triangles ABC and DEF are similar.  AB = 7 cm, BC = 5 cm, DE = 14 cm.  Find EF.",
+      "explanation": "Scale factor $k=\\frac{14}{7}=2$.  EF corresponds to BC, so EF = $2\\times5 = 10\\text{ cm}$."
+    },
+
+    {
+      "question": "The areas of two similar figures are 20 cm² and 125 cm².  If a side of the larger figure is 15 cm, find the corresponding side of the smaller figure.",
+      "explanation": "Linear scale factor $k=\\sqrt{\\frac{20}{125}}=\\sqrt{\\frac{4}{25}}=\\frac{2}{5}$.  Smaller side = $\\frac{2}{5}\\times15=6\\text{ cm}$."
+    },
+
+    {
+      "question": "In two similar triangles the ratio of their areas is 9 : 25.  If the perimeter of the smaller triangle is 18 cm, find the perimeter of the larger triangle.",
+      "explanation": "Linear scale factor $k = \\sqrt{\\frac{9}{25}} = \\frac{3}{5}$.  Larger perimeter $=18\\times\\frac{5}{3}=30\\text{ cm}$."
+    },
+
+    {
+      "question": "Triangle XYZ is similar to triangle LMN.  Area of XYZ is 32 cm², area of LMN is 50 cm² and LM = 15 cm.  Find XY.",
+      "explanation": "Scale factor $k=\\sqrt{\\frac{32}{50}}=\\sqrt{\\frac{16}{25}}=\\frac{4}{5}$.  XY = $\\frac{4}{5}\\times15 = 12\\text{ cm}$."
+    },
+
+    {
+      "question": "Two similar pyramids have volumes in the ratio 9 : 1.  If the height of the smaller pyramid is 6 cm, find the height of the larger pyramid.",
+      "explanation": "Linear scale factor $k = \\sqrt[3]{9}\\approx 2.08$.  Height of larger $\\approx 6\\times2.08 \\approx 12.5\\text{ cm}$."
+    },
+
+    {
+      "question": "In a right-angled triangle, altitude BD is drawn to the hypotenuse AC.  Prove that $BD^{2} = AD \\times DC$.",
+      "explanation": "Triangles ABD, CBD and ABC are pairwise similar.  From similarity $\\frac{BD}{AD}=\\frac{DC}{BD}$ which rearranges to $BD^{2}=AD\\times DC$."
+    },
+
+    {
+      "question": "The sides of two similar triangles are in the ratio 4 : 7.  If the area of the larger is 245 cm², find the area of the smaller.",
+      "explanation": "Area ratio $=4^{2}:7^{2}=16:49$.  Smaller area $=245\\times\\frac{16}{49}=80\\text{ cm}^2$."
+    },
+
+    {
+      "question": "A scale model is made at a scale of 1 : 20.  The real object has surface area 32 m².  Estimate the surface area of the model in square centimetres.",
+      "explanation": "Area scale factor = $(\\frac{1}{20})^{2}=\\frac{1}{400}$.  32 m² = $3.2\\times10^{7}$ cm².  Model area = $3.2\\times10^{7}/400 = 8.0\\times10^{4}$ cm² (80 000 cm²)."
+    },
+
+    {
+      "question": "Similar prisms have surface-area ratio 9 : 16.  If the volume of the smaller prism is 1350 cm³, find the volume of the larger prism.",
+      "explanation": "Linear scale factor $k=\\sqrt{\\frac{9}{16}}=\\frac{3}{4}$.  Volume ratio $=k^{3}=\\frac{27}{64}$.  Let $V$ be the large volume: $\\frac{1350}{V}=\\frac{27}{64}\\Rightarrow V=1350\\times\\frac{64}{27}=3200\\text{ cm}^3$."
+    },
+
+    {
+      "question": "Two similar right circular cones have slant heights 8 cm and 12 cm.  The smaller cone has volume 120 cm³.  Find the volume of the larger cone.",
+      "explanation": "Linear scale factor $k=\\frac{12}{8}=1.5$.  Volume ratio $=k^{3}=3.375$.  Large volume $=120\\times3.375=405\\text{ cm}^3$."
+    }
+  ],
+   "possible_question_15": [
+    {
+      "question": "In a right-angled triangle, one acute angle is $35^{\\circ}$ and the side opposite this angle is 12 cm.\n(a) Find the length of the hypotenuse.\n(b) Hence determine the length of the adjacent side.",
+      "explanation": "Let $c$ be the hypotenuse.\n(a) $\\sin 35^{\\circ}=\\dfrac{12}{c}\\;\\Rightarrow\\;c=\\dfrac{12}{\\sin35^{\\circ}}\\approx 20.9\\text{ cm}$.\n(b) Adjacent $=c\\cos35^{\\circ}\\approx20.9\\times0.819\\approx17.1\\text{ cm}$."
+    },
+
+    {
+      "question": "A ladder 5 m long rests against a vertical wall with its foot 1.4 m from the wall.\n(a) Calculate the angle the ladder makes with the ground.\n(b) How high up the wall does the ladder reach?",
+      "explanation": "(a) $\\cos\\theta = \\dfrac{1.4}{5}\\;\\Rightarrow\\;\\theta = \\cos^{-1}\\!\\left(0.28\\right) \\approx 73.7^{\\circ}$.\n(b) Height $=5\\sin73.7^{\\circ}\\approx4.8\\text{ m}$."
+    },
+
+    {
+      "question": "Point B is 8 km due east of point A.  A boat sails from A on a bearing $060^{\\circ}$ for 10 km to point C.\n(a) How far north of A is C?\n(b) Find the distance BC.",
+      "explanation": "(a) North component $=10\\sin60^{\\circ}=10\\times0.866=8.66\\text{ km}$.\n(b) East component from A $=10\\cos60^{\\circ}=5\\text{ km}$, so BC $=8-5=3\\text{ km}$.\nDistance $BC=\\sqrt{3^{2}+8.66^{2}}\\approx9.2\\text{ km}$."
+    },
+
+    {
+      "question": "From the top of a tower 40 m high, the angle of depression to a point P on level ground is $27^{\\circ}$.  Find the horizontal distance AP.",
+      "explanation": "$\\tan27^{\\circ}=\\dfrac{40}{AP}\\;\\Rightarrow\\;AP=\\dfrac{40}{\\tan27^{\\circ}}\\approx79.1\\text{ m}$."
+    },
+
+    {
+      "question": "A kite is flying with its string making an angle of $55^{\\circ}$ with the horizontal.  The length of the string is 70 m.\nFind the vertical height of the kite above the ground.",
+      "explanation": "Height $=70\\sin55^{\\circ}\\approx70\\times0.819=57.3\\text{ m}$."
+    },
+
+    {
+      "question": "Two coastal towns P and Q are 15 km apart, with Q due east of P.  A ship at S is observed on a bearing $030^{\\circ}$ from P and $315^{\\circ}$ from Q.\nCalculate the distance PS.",
+      "explanation": "Draw right-angled triangle with angle at P = $30^{\\circ}$ and PQ = 15 km (adjacent).  $\\tan30^{\\circ}=\\dfrac{\\text{northing}}{15}$ ⇒ northing $=15\\tan30^{\\circ}=8.66$ km.\nDistance PS $=\\sqrt{15^{2}+8.66^{2}}\\approx17.3\\text{ km}$."
+    },
+
+    {
+      "question": "An observer stands 35 m from the base of a building.  The angle of elevation to the top is $48^{\\circ}$.  Estimate the height of the building.",
+      "explanation": "Height $=35\\tan48^{\\circ}\\approx35\\times1.11\\approx38.9\\text{ m}$."
+    },
+
+    {
+      "question": "From a point A, the top of a mast on a ship is sighted at an angle of elevation $22^{\\circ}$.  The mast is 18 m high.  How far is the ship from A?",
+      "explanation": "Distance $=\\dfrac{18}{\\tan22^{\\circ}}\\approx45.3\\text{ m}$."
+    },
+
+    {
+      "question": "A man walks 200 m up a slope inclined at $12^{\\circ}$ to the horizontal.\n(a) How much vertical height does he gain?\n(b) How far would he need to walk horizontally to gain the same height on level ground?",
+      "explanation": "(a) Height $=200\\sin12^{\\circ}\\approx41.6\\text{ m}$.\n(b) Horizontal walk = 200 m (because on level ground gradient is zero; to rise 41.6 m he must find stairs!)  *Teacher may interpret as none.*"
+    },
+
+    {
+      "question": "Points A and B are on level ground.  A flag-pole at B is 12 m high.  From A, the angle of elevation of the top is $18^{\\circ}$.  Find AB.",
+      "explanation": "Horizontal distance $AB = \\dfrac{12}{\\tan18^{\\circ}} \\approx 36.9\\text{ m}$."
+    },
+
+    {
+      "question": "An aircraft is 3 km vertically above point H on the ground.  From point P, the angle of elevation of the aircraft is $37^{\\circ}$.  Calculate HP.",
+      "explanation": "HP = $\\dfrac{3}{\\tan37^{\\circ}} \\approx 3/0.753 = 3.98\\text{ km}$."
+    },
+
+    {
+      "question": "Two lighthouse beacons, A and B, are 10 km apart.  From a ship S, beacon A is seen at a bearing $040^{\\circ}$ and beacon B at bearing $130^{\\circ}$.  Assuming S, A, B form a right angle at S, find SA.",
+      "explanation": "Angle ASB = $90^{\\circ}$ so triangle right-angled with hypotenuse AB = 10 km.\nSA = AB $\\times \\cos 40^{\\circ} = 10\\times0.766=7.66\\text{ km}$."
+    },
+
+    {
+      "question": "A tower TB stands vertically on level ground.  From a point P, 50 m from the foot B, the angle of elevation to the top T is $34^{\\circ}$.  Find the height of the tower.",
+      "explanation": "Height = $50\\tan34^{\\circ} \\approx 33.7\\text{ m}$."
+    },
+
+    {
+      "question": "A radio mast subtends an angle of $15^{\\circ}$ at point A.  100 m closer to the mast along the same line, the angle subtended is $25^{\\circ}$.  Determine the height of the mast.",
+      "explanation": "Let distance from nearer point = $d$.\n$\\tan25^{\\circ}=\\dfrac{h}{d}$ and $\\tan15^{\\circ}=\\dfrac{h}{d+100}$.\nDivide: $\\dfrac{\\tan25^{\\circ}}{\\tan15^{\\circ}}=\\dfrac{d+100}{d}$.\nCompute $d \\approx 200$ m; then $h = d\\tan25^{\\circ} \\approx 200\\times0.466 = 93.2$ m."
+    },
+
+    {
+      "question": "A boat travels 6 km due east then 4 km due north.  Find the bearing of the boat’s final position from the start.",
+      "explanation": "tan θ = $ \\frac{4}{6} = 0.667 $ ⇒ θ ≈ 34°.\nBearing from start = 090° − 34° = 056°."
+    },
+
+    {
+      "question": "From a point C on level ground the angle of elevation to the top of a cliff is $61^{\\circ}$.  Moving 30 m nearer to the cliff base D, the new angle is $75^{\\circ}$.  Calculate the height of the cliff.",
+      "explanation": "Let original distance CD = $x$ m, height = $h$.\n$h = x \\tan61^{\\circ}$ and $h = (x-30) \\tan75^{\\circ}$.\nEquate: $x \\tan61^{\\circ} = (x-30)\\tan75^{\\circ}$.\nSolve ⇒ $x \\approx 41.1$ m ⇒ $h = 41.1\\tan61^{\\circ} ≈ 74.4$ m."
+    },
+
+    {
+      "question": "A plane climbs at an angle of $18^{\\circ}$ to the horizontal.  After covering a ground distance of 5 km, how high is it above its starting level?",
+      "explanation": "Height gained = $5\\tan18^{\\circ} \\approx 5\\times0.324 = 1.62\\text{ km}$."
+    },
+
+    {
+      "question": "A tower AB leans so that angle ABC with the ground at C is 88° and AC is 30 m.  Approximate the height of the tower.",
+      "explanation": "Height = $30\\tan88^{\\circ} \\approx 30\\times28.64 ≈ 859$ m (illustrates near-vertical)."
+    },
+
+    {
+      "question": "Point X is 6 km due south of Y.  A helicopter at H is on a bearing $135^{\\circ}$ from X and $225^{\\circ}$ from Y.  Determine HX.",
+      "explanation": "Triangle right-angled at H with legs 6 km each.\nHX =$\\sqrt{6^{2}+6^{2}} = 6\\sqrt{2} ≈ 8.49$ km."
+    },
+
+    {
+      "question": "A hillside makes an angle of $11^{\\circ}$ with the horizontal.  A path up the hill is 250 m long.  Find the vertical rise from the start to the end of the path.",
+      "explanation": "Vertical rise = $250 \\sin11^{\\circ} \\approx 250 \\times 0.191 = 47.8\\text{ m}$."
+    }
+  ],
+    "possible_question_16": [
+    {
+      "question": "A sector of a circle has radius 7 cm and angle $60^{\\circ}$.\n(a) Find the length of the arc.\n(b) Calculate the area of the sector (take $\\pi = 3.142$).",
+      "explanation": "The fraction of the full circle is $\\frac{60^{\\circ}}{360^{\\circ}} = \\frac16$.\n(a) Arc length $= \\frac16 \\times 2\\pi r = \\frac16 \\times 2\\pi(7)=\\frac{14\\pi}{6}=2.333\\pi\\text{ cm}\\approx7.33\\text{ cm}$.\n(b) Area $= \\frac16 \\times \\pi r^{2}=\\frac16\\times\\pi(49)=\\frac{49\\pi}{6}\\approx25.7\\text{ cm}^2$."
+    },
+
+    {
+      "question": "A composite shape consists of a semicircle of diameter 10 cm attached to one side of a square of side 10 cm.\nFind the perimeter of the composite shape (use $\\pi=3.14$).",
+      "explanation": "Perimeter $=4\\times10$ (square minus one side) $+\\frac12\\times\\pi\\times10$.\n$=30 + 15.7 = 45.7\\text{ cm}$."
+    },
+
+    {
+      "question": "A cone of base radius 4 cm and height 9 cm is cut off and replaced by a hemisphere of the same radius.\nFind the total volume of the new solid ($\\pi=3.142$).",
+      "explanation": "Cone volume $=\\tfrac13\\pi r^{2}h=\\tfrac13\\pi 4^{2} 9 = 48\\pi$.\nHemisphere volume $=\\tfrac23\\pi r^{3}=\\tfrac23\\pi 64=\\frac{128}{3}\\pi$.\nTotal $=48\\pi+\\frac{128}{3}\\pi=\\frac{272}{3}\\pi \\approx285\\text{ cm}^3$."
+    },
+
+    {
+      "question": "A sector of radius 5 cm is folded to form a cone with slant height 5 cm and base radius 4 cm.\nFind the angle of the original sector.",
+      "explanation": "Arc length becomes circumference: $\\theta r = 2\\pi r_{base}$.\n$\\theta(5) = 2\\pi(4)$ ⇒ $\\theta = \\dfrac{8\\pi}{5}$ rad $\\approx 288^{\\circ}$."
+    },
+
+    {
+      "question": "A metal pipe has outside radius 6 cm and inside radius 5 cm.  It is 80 cm long.  Calculate the volume of metal used ($\\pi = 3.142$).",
+      "explanation": "Volume $=\\pi h(r_o^{2}-r_i^{2}) = \\pi(80)(36-25)=80\\pi(11)=880\\pi\\approx2764\\text{ cm}^3$."
+    },
+
+    {
+      "question": "Find the area of a sector whose arc length is 8 cm and radius is 6 cm.",
+      "explanation": "Angle $\\theta = \\dfrac{\\text{arc}}{r}=\\dfrac{8}{6}=\\dfrac43$ rad.\nArea $=\\frac12 r^{2}\\theta = \\frac12(36)\\times\\frac43 = 12\\times\\frac43 = 16\\text{ cm}^2$."
+    },
+
+    {
+      "question": "A composite solid is made by attaching a right-circular cone (radius 3 cm, height 8 cm) to the top of a cylinder of the same radius and height 10 cm.\nFind the total volume ($\\pi=3.142$).",
+      "explanation": "Cylinder: $V=\\pi r^{2}h=\\pi(9)(10)=90\\pi$.\nCone: $V=\\tfrac13\\pi r^{2}h=\\tfrac13\\pi(9)(8)=24\\pi$.\nTotal $=114\\pi\\approx358\\text{ cm}^3$."
+    },
+
+    {
+      "question": "A sector of radius 9 cm has area 54 cm².  Find the sector angle in degrees.",
+      "explanation": "$\\theta = \\frac{2A}{r^{2}} = \\frac{2\\times54}{81}=\\frac{108}{81}=\\frac43$ rad $\\approx 76.4^{\\circ}$."
+    },
+
+    {
+      "question": "The frustum of a cone is formed by cutting a small cone (height 4 cm, radius 2 cm) from a larger similar cone leaving a frustum 6 cm high.  Find the volume of the frustum.",
+      "explanation": "Similarity gives scale factor large:small = (6+4)/4 = 2.5.\nLarge radius = $2\\times2.5=5$ cm, height 10 cm.\n$V_{large}=\\tfrac13\\pi5^{2}10=\\tfrac{250}{3}\\pi$, $V_{small}=\\tfrac13\\pi2^{2}4=\\tfrac{16}{3}\\pi$.\nFrustum $=\\frac{234}{3}\\pi=78\\pi\\approx245\\text{ cm}^3$."
+    },
+
+    {
+      "question": "A circular sector of angle 120° is cut from a circle of radius 12 cm.  It is bent to form a cone (no overlap).  Find the base radius of the cone.",
+      "explanation": "Arc length $= \\frac{120}{360} \\times 2\\pi\\times12 = 8\\pi$.\nLet $r$ be base radius: $2\\pi r = 8\\pi \\Rightarrow r = 4\\text{ cm}$."
+    },
+
+    {
+      "question": "A composite shape consists of a rectangle 10 cm by 6 cm with a semicircle of diameter 6 cm on one shorter side.  Find the area.",
+      "explanation": "Rectangle: $60\\text{ cm}^2$.\nSemicircle: $\\tfrac12\\pi r^{2}=\\tfrac12\\pi 3^{2}=4.5\\pi$.\nTotal $=60+4.5\\pi\\approx74.1\\text{ cm}^2$."
+    },
+
+    {
+      "question": "The sector of a circle has area $30\\pi$ cm² and arc length $15\\pi$ cm.  Find its radius.",
+      "explanation": "Let $r$.  Angle $\\theta = \\dfrac{\\text{arc}}{r}=\\dfrac{15\\pi}{r}$.\nArea $=\\frac12 r^{2}\\theta = 30\\pi \\Rightarrow \\tfrac12 r^{2}\\left(\\dfrac{15\\pi}{r}\\right)=30\\pi$.\nSimplify: $\\dfrac{15}{2} r = 30 \\Rightarrow r = 4\\text{ cm}$."
+    },
+
+    {
+      "question": "A storage tank is a cylinder of radius 2 m and height 5 m with hemispherical ends.\nCalculate the total volume of the tank ($\\pi = 3.142$).",
+      "explanation": "Cylinder: $\\pi r^{2}h = \\pi(4)(5)=20\\pi$.\nTwo hemispheres = one sphere: $\\tfrac43\\pi r^{3}=\\tfrac43\\pi 8=\\tfrac{32}{3}\\pi$.\nTotal $=\\left(20+\\tfrac{32}{3}\\right)\\pi=\\tfrac{92}{3}\\pi\\approx96.2\\text{ m}^3$."
+    },
+
+    {
+      "question": "A wheel of radius 30 cm rolls one complete revolution.  Find the distance travelled by a point on the rim.",
+      "explanation": "Distance equals the circumference: $2\\pi r = 2\\pi(30)=60\\pi\\approx188\\text{ cm}$."
+    },
+
+    {
+      "question": "A solid cone has slant height 10 cm and base radius 6 cm.  Find its curved surface area.",
+      "explanation": "CSA $= \\pi r l = \\pi(6)(10)=60\\pi\\approx188\\text{ cm}^2$."
+    },
+
+    {
+      "question": "A sector of angle $\\theta$ radians is cut from a circle radius 15 cm.  If its perimeter is 40 cm, find $\\theta$.",
+      "explanation": "Perimeter = $2r + r\\theta = 40$ ⇒ $30 + 15\\theta = 40$ ⇒ $\\theta = \\dfrac{10}{15}=\\dfrac23$ rad."
+    },
+
+    {
+      "question": "A composite solid is formed by a hemisphere (radius 4 cm) attached to the top of a cylinder (radius 4 cm, height 9 cm).  Calculate the external surface area (exclude base of cylinder).",
+      "explanation": "Cylinder side: $2\\pi r h = 2\\pi(4)(9)=72\\pi$.\nHemisphere area: $2\\pi r^{2}=2\\pi(16)=32\\pi$.\nTotal $=104\\pi\\approx327\\text{ cm}^2$."
+    },
+
+    {
+      "question": "A cone and a cylinder have equal base radius 5 cm.  The cone’s height is 12 cm.  Find the height of the cylinder if they have equal volumes.",
+      "explanation": "Cone volume $=\\tfrac13\\pi r^{2}h = \\tfrac13\\pi(25)(12)=100\\pi$.\nCylinder $V=\\pi r^{2}H=25\\pi H$.  Set equal: $25\\pi H = 100\\pi \\Rightarrow H = 4\\text{ cm}$."
+    },
+
+    {
+      "question": "The minute hand of a clock is 9 cm long.\n(a) Find the area swept out in 20 minutes.\n(b) Find the length of the path of the tip in that time.",
+      "explanation": "Angle $=20/60 \\times 360^{\\circ}=120^{\\circ}=\\frac23\\pi$ rad.\n(a) Area $=\\frac12 r^{2}\\theta=\\frac12(81)\\times\\frac23\\pi=27\\pi\\approx84.8\\text{ cm}^2$.\n(b) Arc length $=r\\theta=9\\times\\frac23\\pi=6\\pi\\approx18.8\\text{ cm}$."
+    },
+
+    {
+      "question": "A hollow sphere has external radius 10 cm and internal radius 9 cm.  Calculate the volume of material used.",
+      "explanation": "Volume $=\\tfrac43\\pi(10^{3}-9^{3})=\\tfrac43\\pi(1000-729)=\\tfrac43\\pi(271)=\\frac{1084}{3}\\pi\\approx1136\\text{ cm}^3$."
+    }
+  ],
+   "possible_question_17": [
+    {
+      "question": "A biased coin has $P(\\text{Heads})=\\tfrac{3}{5}$ and $P(\\text{Tails})=\\tfrac{2}{5}$.  The coin is tossed twice.\n(a) Draw a probability tree diagram.\n(b) Find the probability of getting exactly one head.\n(c) Calculate the expected number of heads.",
+      "explanation": "Branches HH, HT, TH, TT.\n(b) $P(HT)+P(TH)=\\tfrac{3}{5}\\times\\tfrac{2}{5}+\\tfrac{2}{5}\\times\\tfrac{3}{5}=\\tfrac{12}{25}$.\n(c) Expected heads $=2\\times\\tfrac{3}{5}=\\tfrac{6}{5}=1.2$."
+    },
+
+    {
+      "question": "Bag A contains 4 red and 6 blue beads.  A bead is drawn, colour noted, and \u200bnot replaced\u200b; a second bead is drawn.\n(a) Draw a probability tree.\n(b) Find $P(\\text{both red})$.\n(c) Find $P(\\text{one red, one blue})$.",
+      "explanation": "First red $=\\tfrac{4}{10}$.\n(b) Second red $=\\tfrac{3}{9}$, so $\\tfrac{4}{10}\\times\\tfrac{3}{9}=\\tfrac{2}{15}$.\n(c) $P(RB)+P(BR)=\\tfrac{4}{10}\\times\\tfrac{6}{9}+\\tfrac{6}{10}\\times\\tfrac{4}{9}=\\tfrac{8}{15}$."
+    },
+
+    {
+      "question": "A game pays 5 dollars for a win and 0 dollars for a loss.  The probability of winning a single play is $0.3$.\n(a) What is the expected gain per play?\n(b) Will the game favour the organiser or the player?",
+      "explanation": "Expected value $=5(0.3)+0(0.7)=1.50 dollars $.\nIf entry fee exceeds 1.50 dollars organiser gains; otherwise player gains."
+    },
+
+    {
+      "question": "Two fair dice are thrown and the scores added.\n(a) List outcomes giving a total of 8.\n(b) Find $P(\\text{sum}=8)$.\n(c) Determine the expected sum of the two dice.",
+      "explanation": "(a) (2,6),(3,5),(4,4),(5,3),(6,2): 5 ways.\n(b) $\\tfrac{5}{36}$.\n(c) Expected value $=7$."
+    },
+
+    {
+      "question": "A box has 3 green and 2 yellow balls.  A ball is drawn, its colour recorded, replaced, and the box is shaken.  A second ball is drawn.\nFind $P(\\text{at least one yellow})$.",
+      "explanation": "$P(\\text{no yellow})=(\\tfrac{3}{5})^2=\\tfrac{9}{25}$.  Hence $1-\\tfrac{9}{25}=\\tfrac{16}{25}$."
+    },
+
+    {
+      "question": "Spinner A has equal sectors labelled 1,2,3.  Spinner B has equal sectors 1,1,2,2.\nThey are spun once.\n(a) Draw a tree diagram.\n(b) Find $P(\\text{total}=3)$.",
+      "explanation": "Joint outcomes 6.  Totals of 3: (1,2),(2,1),(2,1) second 1 duplicated. Probability $=\\tfrac{1}{3}\\times\\tfrac{1}{2}+\\tfrac{1}{3}\\times\\tfrac{1}{2}=\\tfrac{1}{3}$."
+    },
+
+    {
+      "question": "Machine parts are inspected.  Each part has probability $0.08$ of being defective, independent of others.\n(a) For 5 parts find $P(\\text{no defective})$.\n(b) Expected number of defective parts.",
+      "explanation": "(a) $(1-0.08)^5 = 0.92^5 \\approx 0.659$.\n(b) $5\\times0.08 = 0.4$."
+    },
+
+    {
+      "question": "A multiple-choice question has 4 options, only one correct.  A student guesses.\nIf a correct answer scores +3 and wrong answer −1, find the student’s expected score.",
+      "explanation": "$E = 3(\\tfrac{1}{4}) + (-1)(\\tfrac{3}{4}) = 0$."
+    },
+
+    {
+      "question": "Coins X and Y have $P(H)=0.4$ and $P(H)=0.7.$  A coin is chosen at random and tossed once.\n(a) What is $P(\\text{Heads})$?\n(b) Given Heads occurred, find $P(\\text{coin was X})$.",
+      "explanation": "(a) $\\tfrac12(0.4)+\\tfrac12(0.7)=0.55$.\n(b) Use Bayes: $P(X|H)=\\dfrac{0.5\\times0.4}{0.55}=\\dfrac{4}{11}\\approx0.364$."
+    },
+
+    {
+      "question": "A game: roll a die; if a 6 appears you win 12 dollars, else you pay 2 dollars.\nFind the expected gain.",
+      "explanation": "$E =12\\times\\tfrac16 + (-2)\\times\\tfrac56 = 2 - \\tfrac{10}{6}= -\\tfrac{8}{6}= -\\1.33 dollars$."
+    },
+
+    {
+      "question": "An urn has 5 red, 4 blue, 1 white marble.  Two marbles are drawn \u200bwithout\u200b replacement.\nFind $P(\\text{both same colour})$.",
+      "explanation": "$P(\\text{RR})=\\tfrac{5}{10}\\times\\tfrac{4}{9}=\\tfrac{2}{9}$.\n$P(\\text{BB})=\\tfrac{4}{10}\\times\\tfrac{3}{9}=\\tfrac{2}{15}$.\n$P(\\text{WW})=0$.\nSum $=\\tfrac{2}{9}+\\tfrac{2}{15}=\\tfrac{10}{45}=\\tfrac{2}{9}$."
+    },
+
+    {
+      "question": "A factory produces bulbs with 2% defect rate.  Bulbs are packed in boxes of 50.\n(a) Expected defective bulbs per box.\n(b) Using Poisson model $\\lambda=1$, estimate $P(\\text{no defective in a box})$.",
+      "explanation": "(a) $50\\times0.02=1$.\n(b) $e^{-1}\\approx0.368$."
+    },
+
+    {
+      "question": "Two cards are drawn at random from a standard deck without replacement.\nFind $P(\\text{drawing exactly one ace}).",
+      "explanation": "Ways: Ace then non-ace or non-ace then ace.\n$4/52 \\times 48/51 + 48/52 \\times 4/51 = \\tfrac{8}{17}$."
+    },
+
+    {
+      "question": "A biased die has probabilities proportional to face value (i.e.\n$P(k)=k/21$ for $k=1\\dots6$).\nCompute expected value of one throw.",
+      "explanation": "$E=\\sum k P(k)=\\sum k^{2}/21 = (1+4+9+16+25+36)/21 = 91/21 = 4.333$."
+    },
+
+    {
+      "question": "An exam has 3 independent sections with pass probabilities 0.8, 0.7, 0.9.\n(a) Probability student passes all.\n(b) Expected number of sections passed.",
+      "explanation": "(a) $0.8\\times0.7\\times0.9=0.504$.\n(b) $0.8+0.7+0.9 = 2.4$."
+    },
+
+    {
+      "question": "Urn contains 3 green, 1 yellow.  A ball is drawn and replaced until a yellow appears.\nFind expected number of draws.",
+      "explanation": "Success probability $p=\\tfrac14$. Geometric mean $1/p=4$ draws."
+    },
+
+    {
+      "question": "Two coins are tossed.  If exactly one head occurs you gain 3 dollars, otherwise lose 1 dollar.\nFind the expected gain.",
+      "explanation": "Exactly one head probability $=\\tfrac12$.\n$E=3(0.5)+(-1)(0.5)=1$."
+    },
+
+    {
+      "question": "A spinner numbered 1-8 is spun once.  You are paid the square of the number divided by 10 dollars.\nFind the expected payout.",
+      "explanation": "$E=\\frac1{8}\\sum_{k=1}^{8}\\frac{k^{2}}{10}=\\frac{1}{80}(204)=2.55$ dollars."
+    },
+
+    {
+      "question": "A bag has 6 white and 4 black balls.  A ball is taken, colour recorded and \u200bnot replaced\u200b, then second taken.\nDraw tree and compute $P(\\text{second ball black | first ball white}).",
+      "explanation": "After white removed: 5W,4B; total 9.\nConditional probability $=4/9$."
+    }
+  ],
+   "possible_question_18": [
+    {
+      "question": "A car accelerates uniformly from rest to $20\\,\\text{m\\,s}^{-1}$ in $5\\,\\text{s}$, then travels at that speed for $10\\,\\text{s}$ before braking uniformly to rest in $4\\,\\text{s}$.  Sketch the velocity–time graph and determine:\n(a) the acceleration in the first $5\\,\\text{s}$,\n(b) the deceleration during the last $4\\,\\text{s}$,\n(c) the total distance travelled.",
+      "explanation": "The graph is a trapezium: two triangular ends and a rectangle in the middle.\n(a) $a = \\frac{20-0}{5}=4\\,\\text{m\\,s}^{-2}$.\n(b) $a = \\frac{0-20}{4}=-5\\,\\text{m\\,s}^{-2}$ (deceleration $5\\,\\text{m\\,s}^{-2}$).\n(c) Area $= \\frac12(5)(20) + (10)(20) + \\frac12(4)(20) = 50+200+40 = 290\\,\\text{m}$."
+    },
+
+    {
+      "question": "A cyclist travels with a velocity that increases linearly from $4\\,\\text{m\\,s}^{-1}$ to $10\\,\\text{m\\,s}^{-1}$ in $3\\,\\text{s}$, then instantly drops back to $4\\,\\text{m\\,s}^{-1}$ and continues at this speed for another $7\\,\\text{s}$.  Find the total distance covered in the $10\\,\\text{s}$.",
+      "explanation": "First $3\\,\\text{s}$: trapezium area $=\\frac12(4+10)(3)=21\\,\\text{m}$.\nNext $7\\,\\text{s}$: rectangle $=4\\times7=28\\,\\text{m}$.\nTotal $=49\\,\\text{m}$."
+    },
+
+    {
+      "question": "A particle moves so that its displacement $s$ (in metres) after $t$ seconds is given by $s = 6t^{2}-t^{3}$.  Calculate:\n(a) the initial velocity,\n(b) the time when the velocity is zero,\n(c) the displacement at that instant.",
+      "explanation": "Velocity $v = \\frac{ds}{dt}=12t-3t^{2}$.\n(a) At $t=0$, $v=0$.\n(b) Set $12t-3t^{2}=0 \\Rightarrow 3t(4-t)=0$ ⇒ $t=4\\,\\text{s}$ (non-zero root).\n(c) $s(4)=6(16)-64 = 96-64 = 32\\,\\text{m}$."
+    },
+
+    {
+      "question": "A v–t graph is a straight line from $(0,6)$ to $(8,2)$ (time in s, velocity in $\\text{m\\,s}^{-1}$).\n(a) Find the acceleration.\n(b) Determine the distance travelled in the $8\\,\\text{s}$.",
+      "explanation": "(a) $a = \\frac{2-6}{8} = -0.5\\,\\text{m\\,s}^{-2}$.\n(b) Area under the line is trapezium: $\\frac12(6+2)(8)=32\\,\\text{m}$."
+    },
+
+    {
+      "question": "The displacement–time graph of a body is the curve $s = 4t^{1/2}$ (metres, seconds).  Find the velocity when $t = 9\\,\\text{s}$. ",
+      "explanation": "Velocity $v = \\frac{ds}{dt}=4\\times\\frac12 t^{-1/2}=2t^{-1/2}$.\nAt $t=9$, $v = 2/3 \\text{ m\\,s}^{-1}$. "
+    },
+
+    {
+      "question": "A train decelerates uniformly from $30\\,\\text{m\\,s}^{-1}$ to rest in $20\\,\\text{s}$.\n(a) What is the deceleration?\n(b) How far does the train travel while stopping?",
+      "explanation": "(a) $a = \\frac{0-30}{20} = -1.5\\,\\text{m\\,s}^{-2}$.\n(b) Area of triangle = $\\tfrac12\\times20\\times30 = 300\\,\\text{m}$."
+    },
+
+    {
+      "question": "A car travels at $15\\,\\text{m\\,s}^{-1}$ for $6\\,\\text{s}$, then accelerates uniformly to $25\\,\\text{m\\,s}^{-1}$ over the next $4\\,\\text{s}$.  Find its average speed for the whole motion.",
+      "explanation": "Distance = first part $15\\times6 = 90\\,\\text{m}$ plus trapezium $\\frac12(15+25)\\times4=80\\,\\text{m}$.\nTotal distance $=170\\,\\text{m}$; total time $=10\\,\\text{s}$. Average speed $=17\\,\\text{m\\,s}^{-1}$."
+    },
+
+    {
+      "question": "The velocity–time graph consists of three segments: constant $10\\,\\text{m\\,s}^{-1}$ for $5\\,\\text{s}$, then linear decrease to $2\\,\\text{m\\,s}^{-1}$ over $3\\,\\text{s}$, and finally constant $2\\,\\text{m\\,s}^{-1}$ for $4\\,\\text{s}$.  Calculate the total distance.",
+      "explanation": "Areas: rectangle $=10\\times5=50$, trapezium $=\\tfrac12(10+2)\\times3=18$, small rectangle $=2\\times4=8$.  Total $76\\,\\text{m}$."
+    },
+
+    {
+      "question": "The s–t graph of a body shows it covering 12 m in the first 2 s with uniform acceleration from rest.\n(a) Find the acceleration.\n(b) Determine its velocity at $t=2\\,\\text{s}$. ",
+      "explanation": "Using $s = \\tfrac12 a t^{2}$ ⇒ $12 = \\tfrac12 a (2)^2$ ⇒ $a = 6\\,\\text{m\\,s}^{-2}$.\n(b) $v = at = 12\\,\\text{m\\,s}^{-1}$."
+    },
+
+    {
+      "question": "A particle moves so that its velocity–time graph is a semicircle of radius 4 (units m/s) over a base of 8 s.  Find the distance travelled.",
+      "explanation": "Area of a semicircle: $\\tfrac12\\pi r^{2}=\\tfrac12\\pi 16=8\\pi\\,\\text{m}\\approx25.1\\,\\text{m}$."
+    },
+
+    {
+      "question": "A vehicle accelerates uniformly from 12 to 24 $\\text{m\\,s}^{-1}$ in 6 s.  Draw the v–t graph and compute the distance during this phase.",
+      "explanation": "Trapezium area $=\\tfrac12(12+24)\\times6=108\\,\\text{m}$."
+    },
+
+    {
+      "question": "The displacement of a body is given by $s = 3t^{2} - 2t + 5$.  Determine:\n(a) the expression for velocity,\n(b) the time when velocity is $10\\,\\text{m\\,s}^{-1}$.",
+      "explanation": "Velocity $v = 6t - 2$.\nSet $6t - 2 = 10$ ⇒ $t = 2\\,\\text{s}$."
+    },
+
+    {
+      "question": "A stone is thrown vertically upward with velocity $20\\,\\text{m\\,s}^{-1}$.  Assuming constant deceleration $g = 10\\,\\text{m\\,s}^{-2}$:\n(a) draw the v–t graph,\n(b) find the time to reach maximum height,\n(c) calculate that height.",
+      "explanation": "(b) $t = \\dfrac{20}{10}=2\\,\\text{s}$.\n(c) Area of triangle under graph $=\\tfrac12\\times2\\times20=20\\,\\text{m}$."
+    },
+
+    {
+      "question": "The v–t graph of a motorcycle is a straight line of slope $3\\,\\text{m\\,s}^{-2}$ starting from rest for $8\\,\\text{s}$.  Find the distance covered.",
+      "explanation": "Final speed $v = 3\\times8 = 24\\,\\text{m\\,s}^{-1}$.  Distance = area of triangle = $\\tfrac12\\times8\\times24 = 96\\,\\text{m}$."
+    },
+
+    {
+      "question": "A truck moves with velocity $v(t) = 12 - 0.5t$ (m/s) for $0 \\le t \\le 20$.\n(a) At what time does it stop?\n(b) How far does it travel before stopping?",
+      "explanation": "(a) $v=0$ ⇒ $t=24$ s, but motion only to 20 s so does not stop.\nDistance $=\\int_{0}^{20} (12-0.5t)\\,dt = [12t -0.25t^{2}]_{0}^{20}=240 -100=140\\,\\text{m}$."
+    },
+
+    {
+      "question": "A particle decelerates uniformly from $u$ to rest in time $T$.  Show that its average velocity is $\\tfrac{u}{2}$ and hence the distance is $\\tfrac{uT}{2}$.",
+      "explanation": "v–t graph is a triangle with base $T$ and height $u$. Area $=\\tfrac12uT$; divide by time for average velocity $ =\\tfrac{u}{2}$."
+    },
+
+    {
+      "question": "On a train’s v–t graph the area under the graph from 0 to 50 s is 1800 m.  What is the train’s average speed over this time?",
+      "explanation": "Average speed $=\\dfrac{\\text{distance}}{\\text{time}}=\\dfrac{1800}{50}=36\\,\\text{m\\,s}^{-1}$."
+    },
+
+    {
+      "question": "A car travels 100 m in 8 s with constant acceleration from 5 to $v$ $\\text{m\\,s}^{-1}$.  Find $v$.",
+      "explanation": "Average speed $=\\dfrac{5+v}{2}$.  Distance = average speed × time: $100=\\dfrac{5+v}{2}\\times8$ ⇒ $5+v=25$ ⇒ $v=20\\,\\text{m\\,s}^{-1}$."
+    },
+
+    {
+      "question": "The s–t graph of an object consists of a straight line through the origin with gradient 3 up to $t=4$ s, followed by a horizontal line to $t=7$ s, then a straight line back to the time axis at $t=9$ s.\n(a) What is the maximum displacement?\n(b) Draw the corresponding v–t graph.",
+      "explanation": "(a) Maximum displacement = $3\\times4 = 12\\,\\text{m}$.\n(b) v–t: constant 3 m/s for 4 s, then 0, then −6 m/s for 2 s."
+    },
+
+    {
+      "question": "A particle moves with velocity given by $v = 4t + 2$ for $0 \\le t \\le 5$.\nFind the distance covered in this interval.",
+      "explanation": "Distance $=\\int_{0}^{5}(4t+2)dt = [2t^{2}+2t]_{0}^{5} = 2(25)+10 = 60\\,\\text{m}$."
+    }
+  ],
+  "possible_question_19": [
+    {
+      "question": "Triangle $A(1,2)$, $B(4,2)$, $C(2,5)$ is translated by the vector $\\begin{pmatrix}-3\\\\1\\end{pmatrix}$.\n(a) Write the coordinates of $A',B',C'$.\n(b) State the matrix representing this translation.",
+      "explanation": "(a) $A'(-2,3),\\;B'(1,3),\\;C'(-1,6)$.\n(b) A translation has no $2\\times2$ matrix; it is written as the column vector $\\begin{pmatrix}-3\\\\1\\end{pmatrix}$."
+    },
+    {
+      "question": "The matrix $\\begin{pmatrix}1&0\\\\-3&1\\end{pmatrix}$ maps $\\begin{pmatrix}x\\\\y\\end{pmatrix}\\to\\begin{pmatrix}x\\\\-3x+y\\end{pmatrix}$.\nDescribe fully the transformation.",
+      "explanation": "A shear with the $x$-axis invariant and shear factor $3$ parallel to the $y$-axis."
+    },
+    {
+      "question": "Give the $2\\times2$ matrix that represents a reflection in the line $y = x$.",
+      "explanation": "Matrix $\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix}$."
+    },
+    {
+      "question": "Point $P(5,1)$ is rotated $90^{\\circ}$ anticlockwise about the origin to $P'$.  Find the coordinates of $P'$ and state the rotation matrix.",
+      "explanation": "$P'(-1,5)$.  Matrix $\\begin{pmatrix}0&-1\\\\1&0\\end{pmatrix}$."
+    },
+    {
+      "question": "An enlargement with centre $(1,-2)$ and scale factor $-2$ maps a point $Q(4,1)$ to $Q'$.  Calculate $Q'$.",
+      "explanation": "Vector from centre to $Q$ is $(3,3)$.  Multiply by $-2$ to $( -6,-6)$ and add to centre: $Q'(-5,-8)$."
+    },
+    {
+      "question": "Matrices $A=\\begin{pmatrix}0&-1\\\\1&0\\end{pmatrix}$ (rotation $90^{\\circ}$) and $B=\\begin{pmatrix}-1&0\\\\0&1\\end{pmatrix}$ (reflection in $y$-axis) are applied in the order $BA$.\nFind the single matrix and describe the transformation.",
+      "explanation": "$BA=\\begin{pmatrix}0&1\\\\1&0\\end{pmatrix}$ which is reflection in the line $y=x$."
+    },
+    {
+      "question": "Triangle $K(2,1)$, $L(5,1)$, $M(3,4)$ is mapped onto $K'(2,-1)$, $L'(2,-4)$, $M'(5,-2)$.\nDescribe fully the single transformation.",
+      "explanation": "Rotation $90^{\\circ}$ clockwise about $(2,-1)$."
+    },
+    {
+      "question": "State all invariant points under the reflection in the $x$-axis.",
+      "explanation": "Any point with $y=0$ remains unchanged."
+    },
+    {
+      "question": "Write the matrix for a reflection in the $y$-axis.",
+      "explanation": "$\\begin{pmatrix}-1&0\\\\0&1\\end{pmatrix}$."
+    },
+    {
+      "question": "A shear keeps the $y$-axis fixed and maps $\\begin{pmatrix}1\\\\0\\end{pmatrix}$ to $\\begin{pmatrix}4\\\\0\\end{pmatrix}$.  Find the matrix.",
+      "explanation": "Shear factor $k = 3$.  Matrix $\\begin{pmatrix}1&3\\\\0&1\\end{pmatrix}$."
+    },
+    {
+      "question": "Transformation $T$ is a glide reflection: a reflection in the line $y = 1$ followed by a translation $\\begin{pmatrix}5\\\\0\\end{pmatrix}$.\nState the image of $A(2,4)$ under $T$.",
+      "explanation": "Reflect: $A_{1}(2,-2)$ (distance 3 below line).  Translate: $A'(7,-2)$."
+    },
+    {
+      "question": "Matrix $M=\\begin{pmatrix}-2&0\\\\0&-2\\end{pmatrix}$.\n(a) What type of transformation is represented?\n(b) What is its determinant and what does the sign indicate?",
+      "explanation": "(a) Enlargement (or scale) with centre at the origin, scale factor $-2$ (includes a half-turn).\n(b) $\\det M = 4$; positive sign shows orientation is preserved despite the central inversion (because $-2 < 0$ but determinant is $(-2)^2$)."
+    },
+    {
+      "question": "Point $B(6,3)$ is mapped to $B'(-2,9)$ by a rotation about the origin.\nFind the angle and direction of the rotation.",
+      "explanation": "Vector $B$ is $(6,3)$, $B'$ is $(-2,9)$.  A $90^{\\circ}$ anticlockwise rotation sends $(6,3)$ to $(-3,6)$.  A $120^{\\circ}$?  Actually dot-product test gives cosine $= \\frac{6(-2)+3(9)}{\\sqrt{45}\\sqrt{85}}=0$, so angle $90^{\\circ}$ but mismatch.  Conclude rotation $90^{\\circ}$ anticlockwise about $(2,3)$ (centre not origin)."
+    },
+    {
+      "question": "Give the coordinates of the image of $C(-4,5)$ under the translation $x\\mapsto x+7$, $y\\mapsto y-2$.",
+      "explanation": "Image $C'(3,3)$."
+    },
+    {
+      "question": "Describe fully the transformation represented by the matrix $\\begin{pmatrix}0&-1\\\\-1&0\\end{pmatrix}$.",
+      "explanation": "Rotation of $180^{\\circ}$ about the origin followed by reflection in the line $y = -x$ — equivalent to reflection in the line $y = -x$ then $180^{\\circ}$ rotation, so overall it is a reflection in the line $y = -x$ **and** $x$ flipped sign (actually this matrix is a rotation $90^{\\circ}$ clockwise followed by reflection in the $x$-axis)."
+    },
+    {
+      "question": "A point $D(8,2)$ is first reflected in the $y$-axis and then translated by $\\begin{pmatrix}3\\\\-5\\end{pmatrix}$.  Find the final coordinates.",
+      "explanation": "Reflection gives $(-8,2)$; translation gives $(-5,-3)$."
+    },
+    {
+      "question": "Enlargement with centre at the origin and scale factor $\\tfrac12$ maps $E(10,-6)$ to $E'$.  Find $E'$.  What is the area scale factor?",
+      "explanation": "Coordinates $E'(5,-3)$.  Area scale factor $= (\\tfrac12)^2 = \\tfrac14$."
+    },
+    {
+      "question": "Matrix $P=\\begin{pmatrix}1&2\\\\0&1\\end{pmatrix}$ acts on any vector.\n(a) Show that the $x$-axis is invariant.\n(b) Find the image of $(0,1)$.\n(c) Is $P$ a stretch or shear?",
+      "explanation": "(a) Any point $(x,0)$ maps to $(x,0)$.\n(b) $(0,1)\\to(2,1)$.\n(c) Shear with $x$-axis invariant."
+    },
+    {
+      "question": "A rotation matrix has coordinates $\\begin{pmatrix}\\cos\\theta&-\\sin\\theta\\\\\\sin\\theta&\\cos\\theta\\end{pmatrix}$.  For what value of $\\theta$ does the matrix equal $\\begin{pmatrix}\\tfrac12&-\\tfrac{\\sqrt3}{2}\\\\\\tfrac{\\sqrt3}{2}&\\tfrac12\\end{pmatrix}$?",
+      "explanation": "Compare: $\\cos\\theta = \\tfrac12$, $\\sin\\theta = \\tfrac{\\sqrt3}{2}$ ⇒ $\\theta = 60^{\\circ}$ anticlockwise."
+    },
+    {
+      "question": "Describe the single transformation that maps any point $(x,y)$ to $(y,x)$.",
+      "explanation": "Reflection in the line $y = x$."
+    }
+  ],
+    "possible_question_20": [
+    {
+      "question": "A trader buys a bicycle for £80 and sells it at a profit of $15\\%$.\n(a) What is the selling price?\n(b) How much profit does the trader make in pounds?",
+      "explanation": "Profit = $0.15 \\times 80 = £12$.\n(a) Selling price $= 80 + 12 = £92$.\n(b) Profit £12."
+    },
+    {
+      "question": "£2\\,000 is invested at $6\\%$ simple interest per annum for 3 years.\n(a) Find the interest earned.\n(b) Calculate the total amount at the end of 3 years.",
+      "explanation": "Interest $= PRT = 2000 \\times 0.06 \\times 3 = £360$.\nTotal amount $= 2000 + 360 = £2\\,360$."
+    },
+    {
+      "question": "An article is sold for £96 at a loss of $20\\%$ on its cost price.\nFind the cost price.",
+      "explanation": "Selling price $= 0.8 \\times \\text{Cost}$.\nCost $= \\dfrac{96}{0.8} = £120$."
+    },
+    {
+      "question": "A shop marks up goods by $25\\%$ on cost price.  If the selling price of a shirt is £150, find its cost price.",
+      "explanation": "Selling price $= 1.25C$.\n$C = \\dfrac{150}{1.25} = £120$."
+    },
+    {
+      "question": "A bank lends £500 at $8\\%$ simple interest per annum for 2 years.\nCalculate the total repayment at the end of the period.",
+      "explanation": "Interest $= 500 \\times 0.08 \\times 2 = £80$.\nRepayment $= 500 + 80 = £580$."
+    },
+    {
+      "question": "A television has a marked price of £340.  During a sale the shop offers a $15\\%$ discount.\n(a) What is the sale price?\n(b) How much money is saved?",
+      "explanation": "Discount £$=0.15\\times340=£51$.\nSale price £$=340-51=£289$."
+    },
+    {
+      "question": "How long (in whole years) will it take £3\\,000 to amount to £3\\,900 at $10\\%$ per annum simple interest?",
+      "explanation": "Interest needed £$=900$.\n$900 = 3000 \\times 0.10 \\times t \\Rightarrow t = 3$ years."
+    },
+    {
+      "question": "An investor deposits £1\\,200 at $5\\%$ simple interest per annum.  After how many years will the interest earned be £300?",
+      "explanation": "$300 = 1200 \\times 0.05 \\times t \\Rightarrow t = 5$ years."
+    },
+    {
+      "question": "A machine is bought for £2\\,500 and sold two years later for £2\\,150.\nFind the percentage loss.",
+      "explanation": "Loss £$=350$.\nPercentage loss $= \\dfrac{350}{2500}\\times100\\% = 14\\%$."
+    },
+    {
+      "question": "A trader mixes tea costing £6 per kg with tea costing £9 per kg in the ratio $2:3$ and sells the mixture at £9.60 per kg.\nFind the percentage profit made per kilogram.",
+      "explanation": "Cost per kg $= \\dfrac{2(6)+3(9)}{5}=£7.80$.\nProfit per kg £$=9.60-7.80=1.80$.\nPercentage profit $= \\dfrac{1.80}{7.80}\\times100\\%\\approx23.1\\%$."
+    },
+    {
+      "question": "A car costing £12\\,000 depreciates by $10\\%$ in the first year and $8\\%$ of its reduced value in the second year.\nFind its value at the end of the second year.",
+      "explanation": "After 1st year: £$=12000(1-0.10)=£10\\,800$.\nAfter 2nd year: £$=10800(1-0.08)=£9\\,936$."
+    },
+    {
+      "question": "A shop makes a gross profit margin of $35\\%$ on sales.  If monthly expenses are £2\\,100 and sales are £9\\,000, find the net profit.",
+      "explanation": "Gross profit £$=0.35\\times9000=£3\\,150$.\nNet profit £$=3\\,150-2\\,100=£1\\,050$."
+    },
+    {
+      "question": "£4\\,800 is borrowed for 18 months at $12\\%$ p.a. simple interest.\nCalculate the interest and the amount to be repaid.",
+      "explanation": "Time $=1.5$ years.\nInterest £$=4800\\times0.12\\times1.5=£864$.\nTotal £$=4800+864=£5\\,664$."
+    },
+    {
+      "question": "A laptop is advertised at £900 with a $5\\%$ cash discount or on hire purchase with a deposit of £200 and 12 monthly instalments of £65.\nWhich option is cheaper and by how much?",
+      "explanation": "Cash price £$=900-0.05\\times900=£855$.\nHire purchase £$=200+12\\times65=£980$.\nCash is cheaper by £$980-855=£125$."
+    },
+    {
+      "question": "An investor receives £420 interest after 3 years on a simple–interest account at rate $r\\%$ p.a.  If the principal was £2\\,000, find $r$.",
+      "explanation": "$420=2000\\times r/100 \\times 3 \\Rightarrow r = 7\\%$."
+    },
+    {
+      "question": "A shopkeeper marks goods at £72 to obtain a $20\\%$ profit on cost but offers a $10\\%$ discount on the marked price.\nCalculate the actual percentage profit.",
+      "explanation": "Cost £$=\\dfrac{72}{1.20}=£60$.\nSelling price after discount £$=72(1-0.10)=£64.80$.\nProfit £$=4.80$ ⇒ percentage profit $=\\dfrac{4.80}{60}\\times100\\%=8\\%$."
+    },
+    {
+      "question": "A bank deducts $15\\%$ withholding tax from simple interest earned.  £5\\,000 is invested at $9\\%$ p.a. for 2 years.\nFind the net interest received.",
+      "explanation": "Gross interest £$=5000\\times0.09\\times2=£900$.\nTax £$=0.15\\times900=£135$.\nNet interest £$=900-135=£765$."
+    },
+    {
+      "question": "If £x is invested at $4\\%$ p.a. simple interest for 5 years and amounts to £2\\,160, find the value of x.",
+      "explanation": "Amount $=x+ x\\times0.04\\times5 = x(1+0.2)=1.2x = 2160$.\n$x = £1\\,800$."
+    },
+    {
+      "question": "An item is bought for £250 and sold for £330 after spending £30 on repairs.\nCalculate the overall percentage profit on the original cost.",
+      "explanation": "Total cost £$=250+30=£280$.\nProfit £$=330-280=£50$.\nPercentage profit $=\\dfrac{50}{280}\\times100\\%\\approx17.9\\%$."
+    },
+    {
+      "question": "A trader sells half of his stock at a profit of $40\\%$ and the other half at a loss of $10\\%$.  Find the overall percentage profit or loss.",
+      "explanation": "Assume total cost £$=100$ (£50 each).\nProfit part: £$50\\times0.40=20$.\nLoss part: £$50\\times0.10=5$.\nNet profit £$=15$ over £100 cost ⇒ $15\\%$ overall profit."
+    }
+  ]
+}
