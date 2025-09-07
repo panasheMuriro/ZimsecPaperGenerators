@@ -4,6 +4,13 @@ A **dynamic paper generator** for ZIMSEC O-Level math paper 1. Generates random 
 
 Built with **React, TypeScript, Vite, TailwindCSS**, and **react-to-print**.
 
+
+---
+
+## Live Demo
+
+Check out the live version here: [ZIMSEC Math Paper 1 Generator](https://o-math-zimsecpapergenerators.pages.dev/)
+
 ---
 
 ## Features
@@ -35,6 +42,9 @@ Built with **React, TypeScript, Vite, TailwindCSS**, and **react-to-print**.
 * **TailwindCSS**: Styling and responsive layout
 * **KaTeX**: Render math equations
 * **react-to-print**: Print functionality
+
+
+
 
 
 
